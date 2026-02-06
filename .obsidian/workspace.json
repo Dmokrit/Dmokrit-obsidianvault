@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caniballism"
+              "title": "Horses – How to Eat a Human Being"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Caniballism"
+              "title": "Backlinks for Horses – How to Eat a Human Being"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Caniballism"
+              "title": "Outgoing links from Horses – How to Eat a Human Being"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md"
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Caniballism"
+              "title": "File properties for Horses – How to Eat a Human Being"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Caniballism"
+              "title": "Outline of Horses – How to Eat a Human Being"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md"
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,9 +254,10 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
+    "french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
+    "french algeria/1 Project 𓏞/Writing/Reflection/Capitalism.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
-    "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
     "french algeria/Utility 𓌻/Templates/reflection.template.md",
     "french algeria/1 Project 𓏞/Reflection/Untitled 1.md",
     "french algeria/1 Project 𓏞/Reflection/asd.md",
@@ -283,7 +284,6 @@
     "algiers/Inbox/asd.md",
     "algiers/Templates/Daily Note.md",
     "algiers/Inbox/sd.md",
-    "algiers/Inbox/Untitled 2.md",
     "algiers/Untitled",
     "algiers/Templates",
     "Clippings",
