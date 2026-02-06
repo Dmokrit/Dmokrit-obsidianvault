@@ -11,13 +11,24 @@
             "id": "886b22702f70c02b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
-                "viewName": "Table"
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "fleeting_note.base"
+              "icon": "lucide-file",
+              "title": "reflection.template"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fleeting_note.base"
+              "title": "Backlinks for reflection.template"
             }
           },
           {
@@ -112,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fleeting_note.base"
+              "title": "Outgoing links from reflection.template"
             }
           },
           {
@@ -175,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base"
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for fleeting_note.base"
+              "title": "File properties for reflection.template"
             }
           }
         ],
@@ -194,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fleeting_note.base"
+              "title": "Outline of reflection.template"
             }
           }
         ]
@@ -215,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/Utility 𓌻/Bases/fleeting_note.base.base"
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -243,14 +254,16 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "french algeria/Utility 𓌻/Bases/essay.base.base",
+    "french algeria/Utility 𓌻/Templates/essay.template.md",
+    "french algeria/Utility 𓌻/Templates/reflection.template.md",
+    "french algeria/Utility 𓌻/Templates/clippings.template.md",
+    "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+    "french algeria/Utility 𓌻/Bases/essay.base.base",
     "french algeria/1 Project 𓏞/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/Undergo.md",
     "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
-    "french algeria/Utility 𓌻/Templates/essay.template.md",
-    "french algeria/Utility 𓌻/Templates/clippings.template.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
     "french algeria/Utility 𓌻/Templates/journal.template.md",
     "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
@@ -272,13 +285,11 @@
     "Clippings",
     "algiers/Archive/some people need 'enough' suffering.md",
     "algiers/Archive/Untitled 1.md",
-    "test.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",
     "french algeria/3 Resources 𓆱/Clippings/Wikipedia",
     "french algeria/3 Resources 𓆱/Clippings/Articles",
-    "french algeria/3 Resources 𓆱/Clippings/Podcasts",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
