@@ -25,6 +25,10 @@
     {
       "folder": "ALGIERS/3 Resources 𓆱/Personal/Journal",
       "template": "ALGIERS/Utility 𓌻/Templates/journal.template.md"
+    },
+    {
+      "folder": "french algeria/1 Project 𓏞/Reflection",
+      "template": "french algeria/Utility 𓌻/Templates/reflection.template.md"
     }
   ],
   "enable_file_templates": false,

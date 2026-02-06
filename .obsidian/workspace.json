@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
-                "mode": "preview",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Horses – How to Eat a Human Being"
+              "title": "reflection.template"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Horses – How to Eat a Human Being"
+              "title": "Backlinks for reflection.template"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Horses – How to Eat a Human Being"
+              "title": "Outgoing links from reflection.template"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md"
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Horses – How to Eat a Human Being"
+              "title": "File properties for reflection.template"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Horses – How to Eat a Human Being"
+              "title": "Outline of reflection.template"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md"
+                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,24 +254,28 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
+    "french algeria/2 Areas 𓏟/Untitled.md",
+    "french algeria/1 Project 𓏞/Reflection",
+    "french algeria/Utility 𓌻/Templates/reflection.template.md",
+    "french algeria/1 Project 𓏞/Writing/Reflections/asd.md",
+    "french algeria/Utility 𓌻/Templates/journal.template.md",
+    "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
+    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
+    "french algeria/Utility 𓌻/Templates/essay.template.md",
+    "french algeria/1 Project 𓏞/Writing/Reflections/Untitled.md",
+    "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+    "README.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+    "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "french algeria/1 Project 𓏞/Writing/Reflections",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
     "french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Odysseas – I’m begging you to write essays.md",
-    "french algeria/2 Areas 𓏟/Untitled.md",
     "french algeria/Utility 𓌻/Templates/clippings.template.md",
-    "french algeria/Utility 𓌻/Templates/reflection.template.md",
-    "french algeria/Utility 𓌻/Templates/essay.template.md",
-    "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/Utility 𓌻/Bases/essay.base.base",
     "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/Undergo.md",
-    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
-    "french algeria/Utility 𓌻/Templates/journal.template.md",
-    "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
     "algiers/Inbox/asd.md",
     "algiers/Templates/Daily Note.md",
     "algiers/Inbox/sd.md",
@@ -279,17 +283,12 @@
     "algiers/Inbox/d.md",
     "algiers/Inbox/Untitled 1.md",
     "algiers/Inbox/High.md",
-    "algiers/Inbox/bandwith.md",
-    "algiers/Horses – How to Eat a Human Being.md",
     "algiers/Untitled",
-    "README.md",
     "algiers/Templates",
-    "algiers/Archive/will buy a tag collar for kienna.md",
     "Clippings",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",
-    "french algeria/3 Resources 𓆱/Clippings/Wikipedia",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",

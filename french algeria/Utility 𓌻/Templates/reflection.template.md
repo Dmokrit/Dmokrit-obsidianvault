@@ -1,77 +1,43 @@
 ---
-tags: [video-essay, reflection]
+aliases: reflection
+tags: reflection
 status: draft
-title: Untitled
-date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-topic: 
-keywords: 
-source: 
-video-url: 
-creator: 
-duration: 
+date: <% tp.file.creation_date() %>
+title: <% tp.file.title %> 
 ---
 
-𓏤 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>  
-𓏤 Modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+<%*
+	let title = tp.file.title 
+	if (title.startsWith("Untitled")) {
+		title = await tp.system.prompt("Title");
+		await tp.file.rename(`${title}`);
+	}
+%>
+# <%* tR += `${title}` %>
+
+## Summary
+>[!tip]- Briefly describe the video’s main idea or argument. 
+>- Keep it short, 2–3 sentences.
+
+I/P: 
 
 ---
-# 𓋹 <% tp.file.title() %>
+## Thoughts
+>[!tip]- Write your personal reactions. 
+>What resonated with you? Did anything surprise or challenge you?
 
-## 𓄿 Summary
->[!tip]- Briefly summarize the video  
->- Key points / main argument / thesis  
->- Techniques or style highlights  
-
-I/P:
+I/P: 
 
 ---
-## 𓋹 Personal Reflection
->[!tip]- Your immediate thoughts and reactions  
->- What resonated with you?  
->- How did it challenge or confirm your perspective?  
->- Personal anecdotes or experiences it reminded you of  
+## Key Takeaways
+>[!tip]- List memorable points, insights, or lessons you want to remember. 
+>You can include quotes or timestamps.
 
-I/P:
+I/P: 
 
 ---
-## 𓋹 Analysis / Breakdown
->[!tip]- Dive deeper into the video’s argument and structure  
->- Evidence, examples, or references in the video  
->- Techniques: visuals, pacing, narration, editing  
->- Strengths & weaknesses of the argument  
->- Connections to other videos or sources  
+## Notes / Links
+>[!tip]- Any extra ideas, observations, or related resources. 
+>Include links to other notes or references.
 
-I/P:
-
----
-## 𓋹 Key Quotes / Takeaways
-- “Quote from the video” — Timestamp  
-- Important insights or memorable moments  
-
-I/P:
-
----
-## 𓄿 Counterpoints / Questions
->[!tip]- Critical thinking and discussion points  
->- Alternative perspectives or objections  
->- Questions for future exploration  
-
-I/P:
-
----
-## 𓏤 Conclusion / Lessons
->[!tip]- Summarize your reflections  
->- Overall takeaway  
->- How this informs your thinking or work  
->- Actions or experiments to try based on insights  
-
-I/P:
-
----
-## 𓏭 Notes / Clippings
-- Observations, side thoughts, or tangential ideas  
-- Short-term and long-term inspirations  
-
-## 𓇼 Linked Resources
-- [[Related Video Essay Notes]]  
-- [[Book Notes / Articles]]  
+-
