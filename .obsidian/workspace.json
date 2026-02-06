@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pokemon"
+              "title": "fleeting_note.template"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pokemon"
+              "title": "Backlinks for fleeting_note.template"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pokemon"
+              "title": "Outgoing links from fleeting_note.template"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md"
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for pokemon"
+              "title": "File properties for fleeting_note.template"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pokemon"
+              "title": "Outline of fleeting_note.template"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md"
+                "file": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,13 +254,13 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
-    "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
-    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "french algeria/Utility 𓌻/Templates/essay.template.md",
+    "french algeria/Utility 𓌻/Templates/clippings.template.md",
+    "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+    "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/Utility 𓌻/Templates/journal.template.md",
-    "french algeria/Utility 𓌻/Templates/clippings.template.md",
     "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
     "algiers/Inbox/asd.md",
     "algiers/Templates/Daily Note.md",
