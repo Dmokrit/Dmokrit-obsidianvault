@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algiers/Inbox/asd.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "asd"
+              "title": "Untitled"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algiers/Inbox/asd.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asd"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algiers/Inbox/asd.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from asd"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "algiers/Inbox/asd.md"
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for asd"
+              "title": "File properties for Untitled"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algiers/Inbox/asd.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of asd"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "algiers/Inbox/asd.md"
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,13 +254,19 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "algiers/Templates/Daily Note.md",
+    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
+    "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+    "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+    "french algeria/Utility 𓌻/Templates/journal.template.md",
+    "french algeria/Utility 𓌻/Templates/essay.template.md",
+    "french algeria/Utility 𓌻/Templates/clippings.template.md",
+    "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
     "algiers/Inbox/asd.md",
+    "algiers/Templates/Daily Note.md",
     "algiers/Inbox/sd.md",
     "algiers/Inbox/Untitled 2.md",
     "algiers/Inbox/d.md",
     "algiers/Inbox/Untitled 1.md",
-    "algiers/Inbox/asd.md",
     "algiers/Inbox/High.md",
     "algiers/Inbox/bandwith.md",
     "algiers/Horses – How to Eat a Human Being.md",
@@ -278,18 +284,12 @@
     "algiers/Archive/an inconsiderate brother.md",
     "algiers/Archive/i just saw my art appreciation teacher.md",
     "algiers/Archive/i saw that guy again.md",
-    "algiers/Archive/dont ask for any feedback.md",
-    "algiers/Archive/being paralyzed by anxiousness is tough.md",
-    "algiers/Archive/i think i lost my 'manly' instict.md",
-    "algiers/Archive/hope is a deceptive thought.md",
-    "algiers/Archive/i want to join in cs² events team.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",
     "french algeria/3 Resources 𓆱/Clippings/Wikipedia",
     "french algeria/3 Resources 𓆱/Clippings/Articles",
     "french algeria/3 Resources 𓆱/Clippings/Podcasts",
-    "french algeria/3 Resources 𓆱/Clippings/Books",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",

@@ -1,11 +1,12 @@
 ---
 type: fleeting
-created: <% tp.date.now() %>
+created: 2026-02-06
 status: unprocessed
-tags: [fleeting]
+tags:
+  - fleeting
 ---
 
-# <% tp.file.title %>
+# Untitled
 
 ## 𓄿 Context
 >[!tip]- What triggered this thought?

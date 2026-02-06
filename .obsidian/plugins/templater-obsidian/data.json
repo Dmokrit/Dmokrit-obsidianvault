@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "algiers/Templates",
+  "templates_folder": "french algeria/Utility 𓌻/Templates",
   "templates_pairs": [
     [
       "",
@@ -19,16 +19,12 @@
       "template": "ALGIERS/Utility/Templates/essay.template.md"
     },
     {
-      "folder": "ALGIERS/1 Project 𓏞/Fleeting Notes",
-      "template": "ALGIERS/Utility 𓌻/Templates/fleeting_note.template.md"
+      "folder": "french algeria/1 Project 𓏞/Fleeting Notes",
+      "template": "french algeria/Utility 𓌻/Templates/fleeting_note.template.md"
     },
     {
       "folder": "ALGIERS/3 Resources 𓆱/Personal/Journal",
       "template": "ALGIERS/Utility 𓌻/Templates/journal.template.md"
-    },
-    {
-      "folder": "algiers/Inbox",
-      "template": "algiers/Templates/Daily Note.md"
     }
   ],
   "enable_file_templates": false,
