@@ -33,21 +33,26 @@ According to James Cole 2016, the assessment of nutritional content of human bod
 eating people is not efficient, consumes more energy while the counterpart, hunting is more preferred
 Cannibalism is not used for physical nourishment in significant part of diets
 
-Cannibalism as a solution
+**Cannibalism as a solution**
 
-Cannibalism as a culture
+**Cannibalism as a culture**
 	Aztecs uses cannibalism as a culture, sacrificing their own blood to provide for their god
 	Medicinal Cannibalism in Early Modern English Literature and Culture by Louise Noble
 	- this book displays a belief where consuming peoples parts benefits ones own
 	 Wari tribe eat their rivals, dead people as a ceremony.
 	 Fore tribe practice funerary cannibalism, spread of kuru disease.
  
-Cannibalism for survival
+**Cannibalism for survival**
 	The Donner Party
 	The Custom of the sea
 	Uruguayan Air Force Flight 571
+		there was this one guy whom first to eat a human flesh, engaging others to join as well breaking the taboo 
+	*eat someone or die*
 
+**Cannibalism as a crime**
+	
+**Cannibalism as a ceremony**
 
-Cannibalism as a crime
-Cannibalism as a ceremony
+cultural norms to eat someone
 
+cannibalism as a last resort
