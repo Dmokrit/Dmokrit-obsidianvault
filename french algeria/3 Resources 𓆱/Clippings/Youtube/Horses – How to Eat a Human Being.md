@@ -30,3 +30,14 @@ Christopher Columbus arrived at Caribbean whom reported a tribe of man eaters an
 - eating of ones own body
 Why do people eat people?
 According to James Cole 2016, the assessment of nutritional content of human body. humans offer similar sustenance as animals of our size. not particularly nutritious or non-nutritious.
+eating people is not efficient, consumes more energy while the counterpart, hunting is more preferred
+Cannibalism is not used for physical nourishment in significant part of diets
+
+- Cannibalism as a solution
+- Cannibalism as a culture
+- Cannibalism for survival
+- Cannibalism as a crime
+
+Aztecs uses cannibalism as a culture, sacrificing their own blood to provide for their god
+
+Medicinal Cannibalism in Early Modern English Literature and Culture by Louise Noble
