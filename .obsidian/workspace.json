@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md",
+                "file": "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cannibalism is the"
+              "title": "Horses – How to Eat a Human Being"
+            }
+          }
+        ]
+      },
+      {
+        "id": "77831171978af285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af9c5b192f99d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cannibalism is capitalism"
             }
           }
         ]
@@ -104,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cannibalism is the"
+              "title": "Backlinks for Cannibalism is capitalism"
             }
           },
           {
@@ -123,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cannibalism is the"
+              "title": "Outgoing links from Cannibalism is capitalism"
             }
           },
           {
@@ -186,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md"
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Cannibalism is the"
+              "title": "File properties for Cannibalism is capitalism"
             }
           }
         ],
@@ -205,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cannibalism is the"
+              "title": "Outline of Cannibalism is capitalism"
             }
           }
         ]
@@ -226,7 +256,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md"
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -253,11 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "886b22702f70c02b",
+  "active": "0af9c5b192f99d13",
   "lastOpenFiles": [
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+    "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
-    "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is the.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
     "french algeria/Utility 𓌻/Templates/reflection.template.md",
     "french algeria/1 Project 𓏞/Reflection/Untitled 1.md",
