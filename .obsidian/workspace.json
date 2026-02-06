@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reflection.template"
+              "title": "Caniballism"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for reflection.template"
+              "title": "Backlinks for Caniballism"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from reflection.template"
+              "title": "Outgoing links from Caniballism"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reflection.template"
+              "title": "File properties for Caniballism"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md",
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of reflection.template"
+              "title": "Outline of Caniballism"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/Utility 𓌻/Templates/reflection.template.md"
+                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,21 +254,25 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "french algeria/2 Areas 𓏟/Untitled.md",
-    "french algeria/1 Project 𓏞/Reflection",
+    "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+    "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
+    "french algeria/1 Project 𓏞/Writing/Reflection/Caniballism.md",
     "french algeria/Utility 𓌻/Templates/reflection.template.md",
+    "french algeria/1 Project 𓏞/Reflection/Untitled 1.md",
+    "french algeria/1 Project 𓏞/Reflection/asd.md",
+    "french algeria/1 Project 𓏞/Reflection/Untitled.md",
+    "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
+    "french algeria/2 Areas 𓏟/Untitled.md",
+    "french algeria/1 Project 𓏞/Writing/Reflection",
     "french algeria/1 Project 𓏞/Writing/Reflections/asd.md",
     "french algeria/Utility 𓌻/Templates/journal.template.md",
-    "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
     "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "french algeria/Utility 𓌻/Templates/essay.template.md",
     "french algeria/1 Project 𓏞/Writing/Reflections/Untitled.md",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "README.md",
-    "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "french algeria/1 Project 𓏞/Writing/Reflections",
-    "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
     "french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Odysseas – I’m begging you to write essays.md",
     "french algeria/Utility 𓌻/Templates/clippings.template.md",
@@ -280,9 +284,6 @@
     "algiers/Templates/Daily Note.md",
     "algiers/Inbox/sd.md",
     "algiers/Inbox/Untitled 2.md",
-    "algiers/Inbox/d.md",
-    "algiers/Inbox/Untitled 1.md",
-    "algiers/Inbox/High.md",
     "algiers/Untitled",
     "algiers/Templates",
     "Clippings",
