@@ -64,3 +64,8 @@ Cannibalism as a concept
 Juvenalis
 wanted rome as fully rome
 xenophobic
+
+The Man Eating Myth
+observable phenomenon 
+
+*Arens seeks 'acceptable' evidence without ever specifying what exactly qualifies evidence as acceptable*
