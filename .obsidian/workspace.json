@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "algiers/Templates/Daily.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Daily"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "algiers/Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Daily"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "algiers/Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Daily"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "algiers/Templates/Daily.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Daily"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "README.md"
+                "file": "algiers/Templates/Daily.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -240,14 +240,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "4ec83ad7e7e73e6d",
   "lastOpenFiles": [
-    "algiers/Horses – How to Eat a Human Being.md",
     "algiers/Inbox/Untitled 2.md",
+    "algiers/Horses – How to Eat a Human Being.md",
+    "algiers/Templates/Daily.md",
+    "algiers/Untitled",
+    "README.md",
     "algiers/Templates",
     "algiers/Inbox/Untitled.md",
     "algiers/Archive/will buy a tag collar for kienna.md",
-    "README.md",
     "Life Dashboard.md",
     "Clippings/Horses – How to Eat a Human Being.md",
     "Clippings",
@@ -276,7 +278,6 @@
     "french algeria/3 Resources 𓆱/Clippings/Articles",
     "french algeria/3 Resources 𓆱/Clippings/Podcasts",
     "french algeria/3 Resources 𓆱/Clippings/Books",
-    "french algeria/4 Archive 𓋹",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
