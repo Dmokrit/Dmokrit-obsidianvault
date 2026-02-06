@@ -1,5 +1,4 @@
 ---
-type: fleeting
 created: <% tp.date.now() %>
 status: unprocessed
 tags: [fleeting]
