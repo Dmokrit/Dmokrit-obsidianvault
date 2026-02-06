@@ -1,3 +1,7 @@
+---
+aliases:
+date:
+---
 <%*
 	let title = tp.file.title 
 	if (title.startsWith("Untitled")) {
@@ -6,3 +10,5 @@
 	}
 %>
 
+
+# <%* tR += `${title}` %>

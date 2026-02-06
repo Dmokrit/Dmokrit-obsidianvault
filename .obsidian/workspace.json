@@ -179,9 +179,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "18ac3d869cd70187",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "algiers/Templates/Daily Note.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Daily Note"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "15c910348409073f",
@@ -242,11 +254,10 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "algiers/Inbox/Untitled.md",
-    "algiers/Inbox/Untitled 2.md",
-    "algiers/Templates/Daily Note.md",
-    "algiers/Inbox/High.md",
     "algiers/Inbox/asd.md",
+    "algiers/Templates/Daily Note.md",
+    "algiers/Inbox/Untitled 2.md",
+    "algiers/Inbox/High.md",
     "algiers/Inbox/bandwith.md",
     "algiers/Horses – How to Eat a Human Being.md",
     "algiers/Untitled",
