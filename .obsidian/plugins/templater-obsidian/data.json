@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "ALGIERS/Utility 𓌻/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "ALGIERS/1 Project (short-term)/Writing/Essay",
+      "template": "ALGIERS/Utility/Templates/essay.template.md"
+    },
+    {
+      "folder": "ALGIERS/1 Project 𓏞/Fleeting Notes",
+      "template": "ALGIERS/Utility 𓌻/Templates/fleeting_note.template.md"
+    },
+    {
+      "folder": "ALGIERS/3 Resources 𓆱/Personal/Journal",
+      "template": "ALGIERS/Utility 𓌻/Templates/journal.template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

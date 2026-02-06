@@ -1,0 +1,385 @@
+{
+  "main": {
+    "id": "5c32e91173c5c475",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1621618fe237b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "286aef7c7c2f8c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dear Annie,.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dear Annie,"
+            }
+          },
+          {
+            "id": "db026779bb6ab48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dear Annie,.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dear Annie,"
+            }
+          },
+          {
+            "id": "52a0975a21e02aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algiers/Archive/will buy a tag collar for kienna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "will buy a tag collar for kienna"
+            }
+          },
+          {
+            "id": "4ec83ad7e7e73e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algiers/Archive/being paralyzed by anxiousness is tough.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "being paralyzed by anxiousness is tough"
+            }
+          },
+          {
+            "id": "3a2d99e76fbd7bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d579c21ba0054e6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a116a61fa2a9f7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c535298042b63ef0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e35c7d5e962c78b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:journal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8d2ce7674f40b099",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "b398483c7e08f5c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb69c26cd2a0e264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9869c92f97f9938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1689dfd9d1aa9b43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ALGIERS/3 Resources (references)/Clippings/Youtube/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "8379e5bbe5c235ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09de373f36fba99e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "698f128368e071d8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "e77bc81c628d946f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "15c910348409073f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00199f481e8cbf7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hello Annie,.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hello Annie,"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9cc7b94f84560262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b47d9c19ba666be",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Hello Annie,.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3a2d99e76fbd7bf7",
+  "lastOpenFiles": [
+    "algiers/Inbox/Untitled.md",
+    "test.md",
+    "algiers/Inbox/an inconsiderate brother.md",
+    "algiers/Inbox/i just saw my art appreciation teacher.md",
+    "algiers/Inbox/i saw that guy again.md",
+    "algiers/Inbox/some people need 'enough' suffering.md",
+    "algiers/Archive/dont ask for any feedback.md",
+    "algiers/Archive/being paralyzed by anxiousness is tough.md",
+    "algiers/Archive/i think i lost my 'manly' instict.md",
+    "algiers/Archive/hope is a deceptive thought.md",
+    "algiers/Archive/i want to join in cs² events team.md",
+    "algiers/Archive/Introduce yourself vid.md",
+    "algiers/Archive/religion teaches us how to be selfish.md",
+    "algiers/Archive/qr-based price checker for sari-sari store.md",
+    "algiers/Archive/will buy a tag collar for kienna.md",
+    "algiers/Archive/Wait for Anker power bank sale.md",
+    "Dear Annie,.md",
+    "algiers/Archive/be responsible, add disclaimer.md",
+    "algiers/Archive/add 'disposable' sign for every letter.md",
+    "algiers/Archive",
+    "conflict-files-obsidian-git.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
+    "Hello Annie,.md",
+    "algiers/Archive/Untitled.md",
+    "algiers/Inbox",
+    "algiers",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
+    "Life Dashboard.md",
+    "french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
+    "french algeria/3 Resources 𓆱/Clippings/Wikipedia",
+    "french algeria/3 Resources 𓆱/Clippings/Articles",
+    "french algeria/3 Resources 𓆱/Clippings/Podcasts",
+    "french algeria/3 Resources 𓆱/Clippings/Books",
+    "french algeria/4 Archive 𓋹",
+    "french algeria/3 Resources 𓆱/Personal/Diary",
+    "french algeria/3 Resources 𓆱/Books",
+    "z - Test/Attachments/out-of-control.jpg",
+    "Covers/The Plague - Albert Camus.jpg",
+    "MARENGO/Attachments/out-of-control.jpg",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

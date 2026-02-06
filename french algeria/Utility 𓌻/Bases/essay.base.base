@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Essay List
+    filters:
+      and:
+        - file.folder == "meursault/ALGIERS/1 Project (short-term)/Writing"
+    order:
+      - title
+      - status
+      - date
+    columnSize:
+      note.title: 171
+    rowHeight: medium

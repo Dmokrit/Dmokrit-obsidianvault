@@ -1,0 +1,20 @@
+{
+  "folder": "ALGIERS/3 Resources (references)/Books",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "100 - Templates/Book Search Template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "AIzaSyCUPrcbaSJwGMLtf0SSN4m9VG_8-NgoeCo",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "Covers",
+  "askForLocale": true
+}
