@@ -67,5 +67,12 @@ xenophobic
 
 The Man Eating Myth
 observable phenomenon 
-
 *Arens seeks 'acceptable' evidence without ever specifying what exactly qualifies evidence as acceptable*
+ethnocentrism
+
+Placentophagy 
+
+Cannibalism and relativism
+*cannibalism "breaks" cultural relativism* 
+
+understanding cannibalism or learning human species itself enriches our understanding of the world
