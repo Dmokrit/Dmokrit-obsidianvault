@@ -33,16 +33,21 @@ According to James Cole 2016, the assessment of nutritional content of human bod
 eating people is not efficient, consumes more energy while the counterpart, hunting is more preferred
 Cannibalism is not used for physical nourishment in significant part of diets
 
-- Cannibalism as a solution
-- Cannibalism as a culture
-- Cannibalism for survival
-- Cannibalism as a crime
-- Cannibalism as a ceremony
+Cannibalism as a solution
 
-Aztecs uses cannibalism as a culture, sacrificing their own blood to provide for their god
+Cannibalism as a culture
+	Aztecs uses cannibalism as a culture, sacrificing their own blood to provide for their god
+	Medicinal Cannibalism in Early Modern English Literature and Culture by Louise Noble
+	- this book displays a belief where consuming peoples parts benefits ones own
+	 Wari tribe eat their rivals, dead people as a ceremony.
+	 Fore tribe practice funerary cannibalism, spread of kuru disease.
+ 
+Cannibalism for survival
+	The Donner Party
+	The Custom of the sea
+	Uruguayan Air Force Flight 571
 
-Medicinal Cannibalism in Early Modern English Literature and Culture by Louise Noble
-- this book displays a belief where consuming peoples parts benefits ones own
 
- Wari tribe eat their rivals, dead people as a ceremony.
- Fore tribe practice funerary cannibalism, spread of kuru disease.
+Cannibalism as a crime
+Cannibalism as a ceremony
+
