@@ -62,3 +62,5 @@ Cannibalism as a concept
 *early humans filleted the chewing muscles from the heads of two young Neanderthals, sliced out the tongue of at least one, and smashed the leg bone of a large adult*
 
 Juvenalis
+wanted rome as fully rome
+xenophobic
