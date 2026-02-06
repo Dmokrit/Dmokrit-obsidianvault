@@ -12,7 +12,9 @@ date: 2026-02-06 19:51
 >[!tip]- Briefly describe the video’s main idea or argument. 
 >- Keep it short, 2–3 sentences.
 
-I/P:  The entrapment of ones own systematic belief structuralize the idea of its cultural values within its environment. The video shows that there are many functionalities of cannibalism; whether if it is a solution, a culture, a survival
+I/P:  The entrapment of ones own systematic belief structuralize the idea of its cultural values within its environment. The video shows that there are many functionalities of cannibalism; whether if it is a solution, a culture, a survival, or used as a crime. 
+
+Cannibalism 
 
 ---
 ## Thoughts
