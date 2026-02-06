@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "pokemon"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for pokemon"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from pokemon"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md"
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for pokemon"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of pokemon"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md"
+                "file": "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,11 +254,12 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "french algeria/1 Project 𓏞/Fleeting Notes/Untitled.md",
+    "french algeria/1 Project 𓏞/Fleeting Notes/pokemon.md",
+    "french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
+    "french algeria/Utility 𓌻/Templates/essay.template.md",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/Utility 𓌻/Templates/journal.template.md",
-    "french algeria/Utility 𓌻/Templates/essay.template.md",
     "french algeria/Utility 𓌻/Templates/clippings.template.md",
     "french algeria/Utility 𓌻/Templates/personal_essay.template.md",
     "algiers/Inbox/asd.md",
@@ -283,7 +284,6 @@
     "algiers/Archive/Dear Annie,.md",
     "algiers/Archive/an inconsiderate brother.md",
     "algiers/Archive/i just saw my art appreciation teacher.md",
-    "algiers/Archive/i saw that guy again.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",

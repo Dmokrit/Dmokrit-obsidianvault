@@ -1,17 +1,12 @@
 ---
 type: fleeting
-created: <% tp.date.now() %>
+created: 2026-02-06
 status: unprocessed
-tags: [fleeting]
+tags:
+  - fleeting
 ---
-<%*
-	let title = tp.file.title 
-	if (title.startsWith("Untitled")) {
-		title = await tp.system.prompt("Title");
-		await tp.file.rename(`${title}`);
-	}
-%>
-# <%* tR += `${title}` %>
+
+# pokemon
 ## 𓄿 Context
 >[!tip]- What triggered this thought?
 (reading, watching, walking, conversation, frustration, etc.)
