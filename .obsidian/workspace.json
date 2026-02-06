@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "algiers/Horses – How to Eat a Human Being.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "b398483c7e08f5c0",
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "algiers/Horses – How to Eat a Human Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Horses – How to Eat a Human Being"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGIERS/3 Resources (references)/Clippings/Youtube/Untitled.md",
+                "file": "algiers/Horses – How to Eat a Human Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Horses – How to Eat a Human Being"
             }
           },
           {
@@ -138,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,8 +156,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -240,17 +240,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ec83ad7e7e73e6d",
+  "active": "c535298042b63ef0",
   "lastOpenFiles": [
+    "algiers/Inbox/Untitled 2.md",
+    "algiers/Templates",
     "algiers/Horses – How to Eat a Human Being.md",
+    "algiers/Inbox/Untitled.md",
     "algiers/Archive/will buy a tag collar for kienna.md",
     "README.md",
     "Life Dashboard.md",
-    "algiers/Inbox/Untitled 2.md",
     "Clippings/Horses – How to Eat a Human Being.md",
     "Clippings",
     "algiers/Archive/some people need 'enough' suffering.md",
-    "algiers/Inbox/Untitled.md",
     "algiers/Inbox/Untitled 1.md",
     "algiers/Archive/Untitled 1.md",
     "test.md",
@@ -268,7 +269,6 @@
     "algiers/Archive/qr-based price checker for sari-sari store.md",
     "algiers/Archive/Wait for Anker power bank sale.md",
     "algiers/Archive/be responsible, add disclaimer.md",
-    "algiers/Archive/add 'disposable' sign for every letter.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",
@@ -277,7 +277,6 @@
     "french algeria/3 Resources 𓆱/Clippings/Podcasts",
     "french algeria/3 Resources 𓆱/Clippings/Books",
     "french algeria/4 Archive 𓋹",
-    "french algeria/3 Resources 𓆱/Personal/Diary",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
