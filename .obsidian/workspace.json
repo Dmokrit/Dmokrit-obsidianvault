@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "286aef7c7c2f8c6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dear Annie,.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dear Annie,"
-            }
-          },
-          {
-            "id": "db026779bb6ab48a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dear Annie,.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dear Annie,"
-            }
-          },
-          {
-            "id": "52a0975a21e02aeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algiers/Archive/will buy a tag collar for kienna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "will buy a tag collar for kienna"
-            }
-          },
-          {
             "id": "4ec83ad7e7e73e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "algiers/Horses – How to Eat a Human Being.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Horses – How to Eat a Human Being"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "b398483c7e08f5c0",
@@ -238,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -265,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Annie,.md",
+                "file": "algiers/Horses – How to Eat a Human Being.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hello Annie,"
+              "title": "Outline of Horses – How to Eat a Human Being"
             }
           }
         ]
@@ -286,7 +214,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Hello Annie,.md"
+                "file": "algiers/Horses – How to Eat a Human Being.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -296,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,6 +243,8 @@
   "active": "4ec83ad7e7e73e6d",
   "lastOpenFiles": [
     "algiers/Horses – How to Eat a Human Being.md",
+    "algiers/Archive/will buy a tag collar for kienna.md",
+    "README.md",
     "Life Dashboard.md",
     "algiers/Inbox/Untitled 2.md",
     "Clippings/Horses – How to Eat a Human Being.md",
@@ -326,7 +255,6 @@
     "algiers/Archive/Untitled 1.md",
     "test.md",
     "algiers/Archive/Dear Annie,.md",
-    "README.md",
     "algiers/Archive/an inconsiderate brother.md",
     "algiers/Archive/i just saw my art appreciation teacher.md",
     "algiers/Archive/i saw that guy again.md",
@@ -338,7 +266,6 @@
     "algiers/Archive/Introduce yourself vid.md",
     "algiers/Archive/religion teaches us how to be selfish.md",
     "algiers/Archive/qr-based price checker for sari-sari store.md",
-    "algiers/Archive/will buy a tag collar for kienna.md",
     "algiers/Archive/Wait for Anker power bank sale.md",
     "algiers/Archive/be responsible, add disclaimer.md",
     "algiers/Archive/add 'disposable' sign for every letter.md",

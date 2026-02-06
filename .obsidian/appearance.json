@@ -1,7 +1,9 @@
 {
-  "cssTheme": "Typewriter",
-  "interfaceFontFamily": "Readex Pro",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Arial",
   "enabledCssSnippets": [
     "book_search_plugin"
-  ]
+  ],
+  "accentColor": "#f2f2f2",
+  "textFontFamily": ""
 }
