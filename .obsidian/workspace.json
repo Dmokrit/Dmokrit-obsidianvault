@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb1621618fe237b4",
+        "id": "cc929b198dbe96d9",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec83ad7e7e73e6d",
+            "id": "886b22702f70c02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -240,21 +240,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ec83ad7e7e73e6d",
+  "active": "886b22702f70c02b",
   "lastOpenFiles": [
+    "algiers/Inbox/Untitled.md",
     "algiers/Inbox/Untitled 2.md",
-    "algiers/Horses – How to Eat a Human Being.md",
     "algiers/Templates/Daily Note.md",
+    "algiers/Inbox/High.md",
+    "algiers/Inbox/asd.md",
+    "algiers/Inbox/bandwith.md",
+    "algiers/Horses – How to Eat a Human Being.md",
     "algiers/Untitled",
     "README.md",
     "algiers/Templates",
-    "algiers/Inbox/Untitled.md",
     "algiers/Archive/will buy a tag collar for kienna.md",
     "Life Dashboard.md",
     "Clippings/Horses – How to Eat a Human Being.md",
     "Clippings",
     "algiers/Archive/some people need 'enough' suffering.md",
-    "algiers/Inbox/Untitled 1.md",
     "algiers/Archive/Untitled 1.md",
     "test.md",
     "algiers/Archive/Dear Annie,.md",
@@ -269,8 +271,6 @@
     "algiers/Archive/Introduce yourself vid.md",
     "algiers/Archive/religion teaches us how to be selfish.md",
     "algiers/Archive/qr-based price checker for sari-sari store.md",
-    "algiers/Archive/Wait for Anker power bank sale.md",
-    "algiers/Archive/be responsible, add disclaimer.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",

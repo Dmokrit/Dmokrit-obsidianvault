@@ -1,10 +1,8 @@
----
-date: {{date:YYYY-MM-DD}}
-day: {{date:dddd}}
-mood: 
-tags: [daily]
-projects: []
-status: pending
----
+<%*
+	let title = tp.file.title 
+	if (title.startsWith("Untitled")) {
+		title = await tp.system.prompt("Title");
+		await tp.file.rename(`${title}`);
+	}
+%>
 
-# {{date:YYYY-MM-DD}} | {{date:dddd}}
