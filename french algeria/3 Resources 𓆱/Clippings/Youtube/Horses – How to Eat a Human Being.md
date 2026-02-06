@@ -45,4 +45,4 @@ Medicinal Cannibalism in Early Modern English Literature and Culture by Louise N
 - this book displays a belief where consuming peoples parts benefits ones own
 
  Wari tribe eat their rivals, dead people as a ceremony.
- Fore tribe practice funerary cannibalism 
+ Fore tribe practice funerary cannibalism, spread of kuru disease.
