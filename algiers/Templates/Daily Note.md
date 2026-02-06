@@ -1,6 +1,7 @@
 ---
 aliases:
-date:
+tags:
+creation:
 ---
 <%*
 	let title = tp.file.title 

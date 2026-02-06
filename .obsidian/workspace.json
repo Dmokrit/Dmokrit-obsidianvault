@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algiers/Templates/Daily Note.md",
-                "mode": "source",
+                "file": "algiers/Inbox/asd.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily Note"
+              "title": "asd"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algiers/Templates/Daily Note.md",
+                "file": "algiers/Inbox/asd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Note"
+              "title": "Backlinks for asd"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algiers/Templates/Daily Note.md",
+                "file": "algiers/Inbox/asd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Note"
+              "title": "Outgoing links from asd"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "algiers/Templates/Daily Note.md"
+                "file": "algiers/Inbox/asd.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Daily Note"
+              "title": "File properties for asd"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algiers/Templates/Daily Note.md",
+                "file": "algiers/Inbox/asd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Note"
+              "title": "Outline of asd"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "algiers/Templates/Daily Note.md"
+                "file": "algiers/Inbox/asd.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,9 +254,13 @@
   },
   "active": "886b22702f70c02b",
   "lastOpenFiles": [
-    "algiers/Inbox/asd.md",
     "algiers/Templates/Daily Note.md",
+    "algiers/Inbox/asd.md",
+    "algiers/Inbox/sd.md",
     "algiers/Inbox/Untitled 2.md",
+    "algiers/Inbox/d.md",
+    "algiers/Inbox/Untitled 1.md",
+    "algiers/Inbox/asd.md",
     "algiers/Inbox/High.md",
     "algiers/Inbox/bandwith.md",
     "algiers/Horses – How to Eat a Human Being.md",
@@ -279,9 +283,6 @@
     "algiers/Archive/i think i lost my 'manly' instict.md",
     "algiers/Archive/hope is a deceptive thought.md",
     "algiers/Archive/i want to join in cs² events team.md",
-    "algiers/Archive/Introduce yourself vid.md",
-    "algiers/Archive/religion teaches us how to be selfish.md",
-    "algiers/Archive/qr-based price checker for sari-sari store.md",
     "algiers/Archive",
     "algiers/Inbox",
     "algiers",
