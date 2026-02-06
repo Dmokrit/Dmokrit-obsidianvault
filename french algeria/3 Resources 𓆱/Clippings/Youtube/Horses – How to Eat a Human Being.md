@@ -37,7 +37,12 @@ Cannibalism is not used for physical nourishment in significant part of diets
 - Cannibalism as a culture
 - Cannibalism for survival
 - Cannibalism as a crime
+- Cannibalism as a ceremony
 
 Aztecs uses cannibalism as a culture, sacrificing their own blood to provide for their god
 
 Medicinal Cannibalism in Early Modern English Literature and Culture by Louise Noble
+- this book displays a belief where consuming peoples parts benefits ones own
+
+ Wari tribe eat their rivals, dead people as a ceremony.
+ Fore tribe practice funerary cannibalism 
