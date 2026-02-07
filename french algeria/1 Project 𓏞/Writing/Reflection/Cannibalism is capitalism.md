@@ -14,7 +14,7 @@ date: 2026-02-06 19:51
 
 I/P:  The entrapment of ones own systematic belief structuralize the idea of its cultural values within its environment. The video shows that there are many functionalities of cannibalism; whether if it is a solution, a culture, a survival, or used as a crime. 
 
-Cannibalism 
+Cannibalism already existed in the ancient era. In the time of Christopher Columbus  where he 
 
 ---
 ## Thoughts
