@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
+                "file": "Art Application.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-12"
+              "title": "Art Application"
             }
           }
         ]
@@ -253,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "0af9c5b192f99d13",
   "lastOpenFiles": [
-    "french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
+    "Art Application.md",
+    "french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Ramboh – Being Ugly Is Worse Than Death.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Keewi – the principles of ethical gooning.md",
@@ -284,7 +285,6 @@
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "french algeria/1 Project 𓏞/Writing/Reflections",
-    "french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "french algeria/Utility 𓌻/Bases/essay.base.base",
     "algiers/Untitled",
     "algiers/Templates",
