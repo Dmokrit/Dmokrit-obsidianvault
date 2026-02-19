@@ -13,7 +13,7 @@ Intended Learning Outcomes
 **Liberal Art**
 - art in a sense of a learned ==skill==
 
-Three Classical Branches of Art
+**Three Classical Branches** of Art
 1. ==Painting==
 2. ==Sculpture==
 3. ==Architecture==
@@ -34,6 +34,18 @@ Understanding Works of Art
 	In assessing, evaluating and appraising works of art, there could be a myriad of criteria that an onlooker or an ordinary audience may use, however, there are four planes of analysis that may be used to examine works of art. According to an essay titled “Reading the Image” by Alice G. Guillermo (2001), the image can be examined using the basic semiotic plane, the iconic plane, and the contextual plane, and the evaluative plane. You may watch the summary of the whole essay through this link: https://youtu.be/g9wi3cp8eJo
 
 Functions of Art
-Personal Function
-Social Function
-Physical Function
+**Personal Function**
+- this pertains to when artist creates art because of his need to express
+**Social Function**
+- refers to the usage of art for cultural, political, and environmental issues.
+**Physical Function**
+- refers to the non-aesthetic aspect of the art byproduct
+
+Definitions of Terms:
+**Forms**
+- refers to the ==group or categorization== of an artwork
+**Function**
+- refers to the ==purpose, role, and meaning== of an artwork
+**Value**
+- refers to ==essence, importance, or worth== of an artwork
+

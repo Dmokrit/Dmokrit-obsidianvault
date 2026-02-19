@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Art Application"
             }
+          },
+          {
+            "id": "2c82396520035d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algiers/Inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,10 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0af9c5b192f99d13",
+  "active": "2c82396520035d3e",
   "lastOpenFiles": [
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "Art Application.md",
+    "algiers/Inbox/Untitled.md",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Ramboh – Being Ugly Is Worse Than Death.md",
@@ -283,7 +309,6 @@
     "french algeria/Utility 𓌻/Templates/essay.template.md",
     "french algeria/1 Project 𓏞/Writing/Reflections/Untitled.md",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
-    "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "french algeria/1 Project 𓏞/Writing/Reflections",
     "french algeria/Utility 𓌻/Bases/essay.base.base",
     "algiers/Untitled",
