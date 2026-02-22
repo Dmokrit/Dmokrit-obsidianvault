@@ -35,24 +35,10 @@
             "id": "2c82396520035d3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algiers/Archive/dont ask for any feedback.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dont ask for any feedback"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -280,6 +266,9 @@
   },
   "active": "2c82396520035d3e",
   "lastOpenFiles": [
+    "dnd/Untitled.md",
+    "algiers/Archive/dont ask for any feedback.md",
+    "dnd",
     "algiers/Archive/Dear Annie,.md",
     "algiers/Archive/being paralyzed by anxiousness is tough.md",
     "algiers/Archive/be responsible, add disclaimer.md",
@@ -305,8 +294,6 @@
     "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
-    "french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
-    "french algeria/Utility 𓌻/Templates/reflection.template.md",
     "french algeria/1 Project 𓏞/Writing/Reflection",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/1 Project 𓏞/Writing/Reflections",
@@ -315,7 +302,6 @@
     "algiers/Templates",
     "Clippings",
     "algiers/Archive",
-    "algiers/Inbox",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
