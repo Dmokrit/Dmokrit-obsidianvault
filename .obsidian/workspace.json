@@ -40,9 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "316cc4bfba5ec714",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c82396520035d3e",
+  "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
     "dnd/Untitled.md",
     "algiers/Archive/dont ask for any feedback.md",
