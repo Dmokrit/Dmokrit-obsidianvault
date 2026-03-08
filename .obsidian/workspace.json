@@ -45,12 +45,24 @@
             "id": "316cc4bfba5ec714",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -278,6 +290,9 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Art Application.md",
     "dnd/Untitled.md",
     "algiers/Archive/dont ask for any feedback.md",
     "dnd",
@@ -291,8 +306,6 @@
     "french algeria/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026-01-01.md",
-    "Art Application.md",
-    "Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
@@ -302,7 +315,6 @@
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
     "french algeria/Untitled.md",
     "french algeria/Untitled 1.md",
-    "README.md",
     "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
     "french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
