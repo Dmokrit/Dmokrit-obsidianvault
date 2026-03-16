@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0af9c5b192f99d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art Application.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Art Application"
-            }
-          },
-          {
-            "id": "2c82396520035d3e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "316cc4bfba5ec714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "MARCH 16, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Dashboard"
+              "title": "MARCH 16, 2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md"
+                "file": "MARCH 16, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Cannibalism is capitalism"
+              "title": "File properties for MARCH 16, 2026"
             }
           }
         ],
@@ -240,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
+                "file": "MARCH 16, 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cannibalism is capitalism"
+              "title": "Outline of MARCH 16, 2026"
             }
           }
         ]
@@ -261,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md"
+                "file": "MARCH 16, 2026.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -271,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,8 +254,9 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
-    "Art Application.md",
     "Life Dashboard.md",
+    "MARCH 16, 2026.md",
+    "Art Application.md",
     "Untitled.md",
     "README.md",
     "dnd/Untitled.md",
@@ -317,7 +282,6 @@
     "french algeria/Untitled.md",
     "french algeria/Untitled 1.md",
     "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
-    "french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
     "french algeria/1 Project 𓏞/Writing/Reflection",
     "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "french algeria/1 Project 𓏞/Writing/Reflections",
