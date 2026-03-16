@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art Application.md",
+                "file": "Life Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Art Application"
+              "title": "Life Dashboard"
             }
           }
         ],
@@ -290,10 +290,10 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
+    "Art Application.md",
     "Life Dashboard.md",
     "Untitled.md",
     "README.md",
-    "Art Application.md",
     "dnd/Untitled.md",
     "algiers/Archive/dont ask for any feedback.md",
     "dnd",
