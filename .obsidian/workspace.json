@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARCH 16, 2026.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MARCH 16, 2026"
+              "title": "README"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MARCH 16, 2026.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for MARCH 16, 2026"
+              "title": "File properties for README"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARCH 16, 2026.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MARCH 16, 2026"
+              "title": "Outline of README"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "MARCH 16, 2026.md"
+                "file": "README.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "316cc4bfba5ec714",
+  "active": "c535298042b63ef0",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "MARCH 16, 2026.md",
+    "README.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
@@ -279,7 +280,6 @@
     "french algeria/4 Archive 𓋹/z - Trash/Untitled 1.md",
     "french algeria/4 Archive 𓋹/z - Trash/Wait for Anker power bank sale.md",
     "french algeria/4 Archive 𓋹/z - Trash/will buy a tag collar for kienna.md",
-    "algiers/Horses – How to Eat a Human Being.md",
     "dnd",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/1 Project 𓏞/Writing/Reflection",
