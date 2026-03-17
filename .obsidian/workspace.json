@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
+                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "word (ps. this is jnonsense)"
+              "title": "2026-02-12"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md"
+                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for word (ps. this is jnonsense)"
+              "title": "File properties for 2026-02-12"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
+                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of word (ps. this is jnonsense)"
+              "title": "Outline of 2026-02-12"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md"
+                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
-    "french algeria/4 Archive 𓋹/Untitled.md",
+    "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
+    "french algeria/4 Archive 𓋹/Untitled.md",
     "french algeria/4 Archive 𓋹/z - Trash/Untitled.md",
     "french algeria/4 Archive 𓋹/z - Trash/add 'disposable' sign for every letter.md",
     "french algeria/4 Archive 𓋹/z - Trash/an inconsiderate brother.md",
@@ -279,7 +280,6 @@
     "algiers/Templates/Daily Note.md",
     "algiers/Inbox/Untitled.md",
     "algiers/Inbox/asd.md",
-    "french algeria/4 Archive 𓋹/z - Trash/webs.md",
     "dnd",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/1 Project 𓏞/Writing/Reflection",
