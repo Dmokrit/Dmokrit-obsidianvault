@@ -1,0 +1,1 @@
+im a fvcking covert narcicist YAWA
