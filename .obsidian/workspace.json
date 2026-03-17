@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARCH 16, 2026.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MARCH 16, 2026"
+              "title": "README"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MARCH 16, 2026.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for MARCH 16, 2026"
+              "title": "File properties for README"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARCH 16, 2026.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MARCH 16, 2026"
+              "title": "Outline of README"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "MARCH 16, 2026.md"
+                "file": "README.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,8 +254,8 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
-    "dnd/Untitled.md",
     "MARCH 16, 2026.md",
+    "dnd/Untitled.md",
     "Untitled.md",
     "README.md",
     "Untitled 1.md",
