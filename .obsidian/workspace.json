@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nobody cares nobody.md",
+                "file": "MARCH 17, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "nobody cares nobody"
+              "title": "MARCH 17, 2026"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "nobody cares nobody.md"
+                "file": "MARCH 17, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for nobody cares nobody"
+              "title": "File properties for MARCH 17, 2026"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nobody cares nobody.md",
+                "file": "MARCH 17, 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nobody cares nobody"
+              "title": "Outline of MARCH 17, 2026"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "nobody cares nobody.md"
+                "file": "MARCH 17, 2026.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,8 +254,9 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
-    "Untitled.md",
     "nobody cares nobody.md",
+    "MARCH 17, 2026.md",
+    "Untitled.md",
     "README.md",
     "MARCH 16, 2026.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
@@ -279,7 +280,6 @@
     "french algeria/4 Archive 𓋹/z - Trash/religion teaches us how to be selfish.md",
     "french algeria/4 Archive 𓋹/z - Trash/some people need 'enough' suffering.md",
     "french algeria/4 Archive 𓋹/z - Trash/Untitled 1.md",
-    "french algeria/4 Archive 𓋹/z - Trash/Wait for Anker power bank sale.md",
     "dnd",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/1 Project 𓏞/Writing/Reflection",
