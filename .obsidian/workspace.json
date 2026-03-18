@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
+                "file": "MARCH 16, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dear Annie,"
+              "title": "MARCH 16, 2026"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md"
+                "file": "MARCH 16, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dear Annie,"
+              "title": "File properties for MARCH 16, 2026"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
+                "file": "MARCH 16, 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dear Annie,"
+              "title": "Outline of MARCH 16, 2026"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md"
+                "file": "MARCH 16, 2026.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,13 +252,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "316cc4bfba5ec714",
+  "active": "c535298042b63ef0",
   "lastOpenFiles": [
-    "MARCH 17, 2026.md",
+    "french algeria/4 Archive 𓋹/2026/July",
+    "french algeria/4 Archive 𓋹/2026/June",
+    "french algeria/4 Archive 𓋹/2026/May",
+    "french algeria/4 Archive 𓋹/2026/April",
+    "french algeria/4 Archive 𓋹/2026/March",
+    "french algeria/4 Archive 𓋹/2026",
+    "french algeria/4 Archive 𓋹/2026/February",
+    "french algeria/4 Archive 𓋹/2026/January",
+    "MARCH 17, 2026a.md",
+    "MARCH 16, 2026.md",
+    "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
     "nobody cares nobody.md",
     "Untitled.md",
     "README.md",
-    "MARCH 16, 2026.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
@@ -268,7 +277,6 @@
     "french algeria/4 Archive 𓋹/z - Trash/an inconsiderate brother.md",
     "french algeria/4 Archive 𓋹/z - Trash/being paralyzed by anxiousness is tough.md",
     "french algeria/4 Archive 𓋹/z - Trash/be responsible, add disclaimer.md",
-    "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
     "french algeria/4 Archive 𓋹/z - Trash/dont ask for any feedback.md",
     "french algeria/4 Archive 𓋹/z - Trash/i just saw my art appreciation teacher.md",
     "french algeria/4 Archive 𓋹/z - Trash/hope is a deceptive thought.md",
@@ -279,17 +287,9 @@
     "french algeria/4 Archive 𓋹/z - Trash/qr-based price checker for sari-sari store.md",
     "french algeria/4 Archive 𓋹/z - Trash/religion teaches us how to be selfish.md",
     "french algeria/4 Archive 𓋹/z - Trash/some people need 'enough' suffering.md",
-    "french algeria/4 Archive 𓋹/z - Trash/Untitled 1.md",
     "dnd",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "french algeria/1 Project 𓏞/Writing/Reflection",
-    "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
-    "french algeria/1 Project 𓏞/Writing/Reflections",
-    "french algeria/Utility 𓌻/Bases/essay.base.base",
-    "algiers/Untitled",
-    "algiers/Templates",
-    "Clippings",
-    "algiers/Archive",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
