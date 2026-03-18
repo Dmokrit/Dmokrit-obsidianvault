@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dang i just realized im old.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dang i just realized im old"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Dang i just realized im old.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Dang i just realized im old"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Dang i just realized im old.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Dang i just realized im old"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "README.md"
+                "file": "Dang i just realized im old.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,6 +254,8 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
+    "README.md",
+    "Dang i just realized im old.md",
     "nobody cares nobody.md",
     "March 18, 2026.md",
     "MARCH 16, 2026.md",
@@ -268,7 +270,6 @@
     "MARCH 17, 2026a.md",
     "french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
     "Untitled.md",
-    "README.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
@@ -287,7 +288,6 @@
     "french algeria/4 Archive 𓋹/z - Trash/Introduce yourself vid.md",
     "french algeria/4 Archive 𓋹/z - Trash/qr-based price checker for sari-sari store.md",
     "french algeria/4 Archive 𓋹/z - Trash/religion teaches us how to be selfish.md",
-    "french algeria/4 Archive 𓋹/z - Trash/some people need 'enough' suffering.md",
     "dnd",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE",
     "z - Test/Attachments/out-of-control.jpg",
