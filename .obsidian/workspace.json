@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Dashboard"
+              "title": "test"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life Dashboard.md"
+                "file": "test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Life Dashboard"
+              "title": "File properties for test"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life Dashboard"
+              "title": "Outline of test"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Life Dashboard.md"
+                "file": "test.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,12 +254,14 @@
   },
   "active": "6eaa4b439fac2445",
   "lastOpenFiles": [
+    "README.md",
+    "test.md",
+    "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
     "french algeria/4 Archive 𓋹/Untitled.md",
     "french algeria/4 Archive 𓋹/MARCH 16, 2026.md",
     "french algeria/4 Archive 𓋹/March 18, 2026.md",
     "french algeria/4 Archive 𓋹/nobody cares nobody.md",
-    "README.md",
     "this is a test.md",
     "vault/Life Dashboard.md",
     "vault/nobody cares nobody.md",
@@ -278,8 +280,6 @@
     "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
     "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
     "vault/french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
-    "vault/french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
-    "vault/french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "vault/french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "vault/french algeria/Utility 𓌻/Bases/essay.base.base",
     "vault/french algeria/3 Resources 𓆱/Personal/Journal",
