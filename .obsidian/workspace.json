@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-.md",
+                "file": "2026-03-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-"
+              "title": "2026-03-21"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2026-.md"
+                "file": "2026-03-21.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-"
+              "title": "File properties for 2026-03-21"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-.md",
+                "file": "2026-03-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-"
+              "title": "Outline of 2026-03-21"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2026-.md"
+                "file": "2026-03-21.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,10 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "6eaa4b439fac2445",
   "lastOpenFiles": [
     "test.md",
-    "2026-.md",
+    "2026-03-21.md",
     "README.md",
     "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
