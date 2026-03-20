@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dang i just realized im old.md",
+                "file": "March 18, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dang i just realized im old"
+              "title": "March 18, 2026"
             }
           }
         ]
@@ -166,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dang i just realized im old.md"
+                "file": "March 18, 2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dang i just realized im old"
+              "title": "File properties for March 18, 2026"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dang i just realized im old.md",
+                "file": "March 18, 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dang i just realized im old"
+              "title": "Outline of March 18, 2026"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Dang i just realized im old.md"
+                "file": "March 18, 2026.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,11 +254,11 @@
   },
   "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
-    "README.md",
-    "Dang i just realized im old.md",
-    "nobody cares nobody.md",
-    "March 18, 2026.md",
     "MARCH 16, 2026.md",
+    "March 18, 2026.md",
+    "nobody cares nobody.md",
+    "Dang i just realized im old.md",
+    "README.md",
     "french algeria/4 Archive 𓋹/2026/July",
     "french algeria/4 Archive 𓋹/2026/June",
     "french algeria/4 Archive 𓋹/2026/May",
