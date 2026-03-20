@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
+                "file": "Life Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dang i just realized im old"
+              "title": "Life Dashboard"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/Dang i just realized im old.md"
+                "file": "Life Dashboard.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dang i just realized im old"
+              "title": "File properties for Life Dashboard"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
+                "file": "Life Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dang i just realized im old"
+              "title": "Outline of Life Dashboard"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/4 Archive 𓋹/Dang i just realized im old.md"
+                "file": "Life Dashboard.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,14 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "6eaa4b439fac2445",
   "lastOpenFiles": [
+    "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
     "french algeria/4 Archive 𓋹/Untitled.md",
     "french algeria/4 Archive 𓋹/MARCH 16, 2026.md",
     "french algeria/4 Archive 𓋹/March 18, 2026.md",
     "french algeria/4 Archive 𓋹/nobody cares nobody.md",
     "README.md",
-    "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
     "this is a test.md",
     "vault/Life Dashboard.md",
     "vault/nobody cares nobody.md",
