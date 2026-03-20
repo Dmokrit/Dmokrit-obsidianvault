@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "2026-.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "2026-"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "test.md"
+                "file": "2026-.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for test"
+              "title": "File properties for 2026-"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "2026-.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of 2026-"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "test.md"
+                "file": "2026-.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6eaa4b439fac2445",
+  "active": "c535298042b63ef0",
   "lastOpenFiles": [
-    "README.md",
     "test.md",
+    "2026-.md",
+    "README.md",
     "Life Dashboard.md",
     "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
     "french algeria/4 Archive 𓋹/Untitled.md",
@@ -279,7 +280,6 @@
     "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Keewi – the principles of ethical gooning.md",
     "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
     "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
-    "vault/french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
     "vault/french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "vault/french algeria/Utility 𓌻/Bases/essay.base.base",
     "vault/french algeria/3 Resources 𓆱/Personal/Journal",
