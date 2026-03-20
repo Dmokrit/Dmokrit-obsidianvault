@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dear Annie,.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dear Annie,"
+              "title": "test"
             }
           }
         ]
@@ -168,8 +168,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -184,13 +184,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "aa4f2db90ff8eeb4",
   "lastOpenFiles": [
+    "test.md",
     "ALGIERS/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
     "ALGIERS/4 Archive 𓋹/Untitled.md",
     "ALGIERS/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
@@ -224,7 +224,6 @@
     "z - Trash/webs.md",
     "Test",
     "README.md",
-    "Untitled.md",
     "Test/Inbox",
     "/ALGIERS/Utility 𓌻/Templates",
     "z - Test/Attachments/out-of-control.jpg"
