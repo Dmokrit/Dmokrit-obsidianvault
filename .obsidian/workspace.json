@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "March 18, 2026.md",
+                "file": "this is a test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "March 18, 2026"
+              "title": "this is a test"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "March 18, 2026.md"
+                "file": "this is a test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for March 18, 2026"
+              "title": "File properties for this is a test"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "March 18, 2026.md",
+                "file": "this is a test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of March 18, 2026"
+              "title": "Outline of this is a test"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "March 18, 2026.md"
+                "file": "this is a test.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,8 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "316cc4bfba5ec714",
   "lastOpenFiles": [
+    "vault/Life Dashboard.md",
+    "this is a test.md",
+    "March 18, 2026.md",
     "vault/nobody cares nobody.md",
     "vault/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
     "vault/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
@@ -277,11 +280,8 @@
     "vault/french algeria/Utility 𓌻/Templates/journal.template.md",
     "vault/french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
     "vault/french algeria/Utility 𓌻/Templates/essay.template.md",
-    "vault/french algeria/Utility 𓌻/Templates/clippings.template.md",
     "vault/french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
     "vault/french algeria/Utility 𓌻/Bases/essay.base.base",
-    "vault/french algeria/4 Archive 𓋹/z - Trash/word.md",
-    "vault/french algeria/4 Archive 𓋹/z - Trash/word (ps. this is jnonsense).md",
     "vault/french algeria/3 Resources 𓆱/Personal/Journal",
     "vault/french algeria/3 Resources 𓆱/Personal/Diary",
     "vault/french algeria/3 Resources 𓆱/Personal/CSCUBE",
