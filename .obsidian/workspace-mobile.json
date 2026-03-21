@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "french algeria/2026-03-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "2026-03-21"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "aa4f2db90ff8eeb4",
   "lastOpenFiles": [
-    "2026-03-21.md",
     "test.md",
+    "french algeria/2026-03-21.md",
+    "2026-03-21.md",
     "README.md",
     "ALGIERS/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
     "ALGIERS/4 Archive 𓋹/Untitled.md",
@@ -219,7 +220,6 @@
     "Test/Inbox/be responsible, add disclaimer.md",
     "ALGIERS/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "ALGIERS/1 Project 𓏞/Fleeting Notes/Minecraft Nitwit Villagers.md",
-    "Life Dashboard.md",
     "Test/Trash",
     "Test/Sleeping",
     "Test/Zettelkasten",
