@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Dashboard"
+              "title": "Untitled"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life Dashboard.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Life Dashboard"
+              "title": "File properties for Untitled"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life Dashboard"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Life Dashboard.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,42 +254,42 @@
   },
   "active": "6eaa4b439fac2445",
   "lastOpenFiles": [
-    "2026-03-21.md",
-    "Life Dashboard.md",
-    "README.md",
-    "test.md",
-    "french algeria/4 Archive 𓋹/Dang i just realized im old.md",
-    "french algeria/4 Archive 𓋹/Untitled.md",
-    "french algeria/4 Archive 𓋹/MARCH 16, 2026.md",
-    "french algeria/4 Archive 𓋹/March 18, 2026.md",
-    "french algeria/4 Archive 𓋹/nobody cares nobody.md",
-    "this is a test.md",
-    "vault/Life Dashboard.md",
-    "vault/nobody cares nobody.md",
-    "vault/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
-    "vault/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
-    "vault/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-01.md",
-    "vault/french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
-    "vault/french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/oliSUNvia – self-estrangement becoming a stranger to yourself.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/ThottiYT – 67 Kid The modern retelling of the myth of Daedalus and Icarus.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Ramboh – Being Ugly Is Worse Than Death.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Odysseas – I’m begging you to write essays.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Keewi – the principles of ethical gooning.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
-    "vault/french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
-    "vault/french algeria/Utility 𓌻/Bases/essay.base.base",
-    "vault/french algeria/3 Resources 𓆱/Personal/Journal",
-    "vault/french algeria/3 Resources 𓆱/Personal/Diary",
-    "vault/french algeria/3 Resources 𓆱/Personal/CSCUBE",
-    "vault/french algeria/3 Resources 𓆱/Clippings/Youtube",
-    "vault/french algeria/1 Project 𓏞/Writing/Reflection",
-    "vault/french algeria/1 Project 𓏞/Writing/Fleeting Notes",
-    "vault/french algeria/1 Project 𓏞/Writing/Essay",
-    "vault/french algeria/Utility 𓌻/Templates",
+    "Personal/french algeria/Utility 𓌻/Templates/journal.template.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/will buy a tag collar for kienna.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/add 'disposable' sign for every letter.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Horses – How to Eat a Human Being.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/i want to join in cs² events team.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/i saw that guy again.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
+    "Personal/french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
+    "Personal/french algeria/Utility 𓌻/Bases/essay.base.base",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
+    "Personal/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
+    "Personal/README.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/hope is a deceptive thought.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/Untitled.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/word.md",
+    "Personal/french algeria/Utility 𓌻/Templates/essay.template.md",
+    "Personal/french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Unsolicited advice – How to Become a Cult Leader in 4 Easy Steps.md",
+    "Personal/french algeria/4 Archive 𓋹/Untitled.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Coskerr – The most underrated fish game Ever Made..md",
+    "Personal/french algeria/Utility 𓌻/Templates/fleeting_note.template.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Ramboh – Being Ugly Is Worse Than Death.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/i just saw my art appreciation teacher.md",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/ThottiYT – 67 Kid The modern retelling of the myth of Daedalus and Icarus.md",
+    "Personal/french algeria/4 Archive 𓋹/Dang i just realized im old.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/Introduce yourself vid.md",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash/Untitled 1.md",
+    "Personal/french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
+    "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube",
+    "Personal/french algeria/3 Resources 𓆱/Books",
+    "Personal/french algeria/Utility 𓌻/Templates",
+    "Personal/french algeria/1 Project 𓏞/Writing/Fleeting Notes",
+    "Personal/french algeria/4 Archive 𓋹/z - Trash",
+    "Personal/french algeria/4 Archive 𓋹",
+    "Personal/french algeria/3 Resources 𓆱/Personal/CSCUBE",
+    "Personal/french algeria/1 Project 𓏞/Writing/Reflection",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
