@@ -7,13 +7,5 @@
       "key": "T"
     }
   ],
-  "editor:delete-paragraph": [],
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ]
+  "editor:delete-paragraph": []
 }
