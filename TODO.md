@@ -16,3 +16,7 @@ Computer Studies Student Council (CSSC)
 https://www.facebook.com/XU.CSSC
 cssc@my.xu.edu.ph
 
+## Xavier Computer Enthusiasts' League
+fb: https://www.facebook.com/XU.XCEL
+gmail.com xcel@my.xu.edu.ph
+
