@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "69914a1295d34993",
+        "id": "0650bdd14d391bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "6eaa4b439fac2445",
+            "id": "c17a080fda0f6d76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -171,9 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Untitled.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Untitled"
             }
           }
         ],
@@ -189,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -208,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Untitled.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -233,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6eaa4b439fac2445",
+  "active": "c17a080fda0f6d76",
   "lastOpenFiles": [
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.22.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026",
