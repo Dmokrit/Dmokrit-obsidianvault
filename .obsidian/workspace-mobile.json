@@ -11,10 +11,24 @@
             "id": "aa4f2db90ff8eeb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -177,10 +191,12 @@
   },
   "active": "aa4f2db90ff8eeb4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Life Dashboard.md",
     "test.md",
     "french algeria/2026-03-21.md",
     "2026-03-21.md",
-    "README.md",
     "ALGIERS/3 Resources 𓆱/Personal/Journal/2026-01-17.md",
     "ALGIERS/4 Archive 𓋹/Untitled.md",
     "ALGIERS/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
@@ -205,8 +221,6 @@
     "Test/Inbox/will buy a tag collar for kienna.md",
     "Test/Inbox/add 'disposable' sign for every letter.md",
     "Test/Inbox/be responsible, add disclaimer.md",
-    "ALGIERS/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
-    "ALGIERS/1 Project 𓏞/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "Test/Trash",
     "Test/Sleeping",
     "Test/Zettelkasten",
