@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Arch Linux/Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Keybinds"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Arch Linux/Keybinds.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 1"
+              "title": "File properties for Keybinds"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Arch Linux/Keybinds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Keybinds"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Arch Linux/Keybinds.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,14 +254,20 @@
   },
   "active": "99356bbc9b16980a",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Life Dashboard.md",
+    "README.md",
+    "TODO.md",
+    "test.md",
     "Untitled.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026-03-21.md",
+    "Arch Linux.md",
+    "Arch Linux/Keybinds.md",
+    "Arch Linux",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.22.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/01 Jan/2026-01-17.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/01 Jan/2026-01-01.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/01 Jan/2026-01-06.md",
-    "2026-03-21.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/10 Oct",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/12 Dec",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/11 Nov",
@@ -270,10 +276,7 @@
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/07 July",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/06 Jun",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/05 May",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr",
-    "TODO.md",
     "french algeria/2026-03-22.md",
-    "test.md",
     "Personal/french algeria/Utility 𓌻/Templates/journal.template.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/will buy a tag collar for kienna.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/add 'disposable' sign for every letter.md",
@@ -287,9 +290,6 @@
     "Personal/README.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/hope is a deceptive thought.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/Untitled.md",
-    "Personal/french algeria/4 Archive 𓋹/z - Trash/word.md",
-    "Personal/french algeria/Utility 𓌻/Templates/essay.template.md",
-    "Personal/french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
