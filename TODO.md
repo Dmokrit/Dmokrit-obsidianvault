@@ -20,3 +20,6 @@ cssc@my.xu.edu.ph
 fb: https://www.facebook.com/XU.XCEL
 gmail.com xcel@my.xu.edu.ph
 
+Cybersecurity
+Fren Marlon B. Peralta
+https://www.linkedin.com/in/fren-marlon-peralta/?originalSubdomain=ph
