@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch Linux/Keybinds.md",
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "2026.03.24"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 2026.03.24"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2026.03.24"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.md"
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c535298042b63ef0",
+  "active": "99356bbc9b16980a",
   "lastOpenFiles": [
-    "Arch Linux/Keybinds.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md",
     "Untitled.md",
+    "Arch Linux/Keybinds.md",
     "Life Dashboard.md",
     "README.md",
     "TODO.md",
@@ -289,7 +290,6 @@
     "Personal/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
     "Personal/README.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/hope is a deceptive thought.md",
-    "Personal/french algeria/4 Archive 𓋹/z - Trash/Untitled.md",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
