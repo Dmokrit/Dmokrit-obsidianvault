@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Arch Linux/Keybinds.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Keybinds"
+              "title": "File properties for Untitled"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch Linux/Keybinds.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Keybinds"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Arch Linux/Keybinds.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,16 +252,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99356bbc9b16980a",
+  "active": "c535298042b63ef0",
   "lastOpenFiles": [
+    "Arch Linux/Keybinds.md",
+    "Untitled.md",
     "Life Dashboard.md",
     "README.md",
     "TODO.md",
     "test.md",
-    "Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026-03-21.md",
     "Arch Linux.md",
-    "Arch Linux/Keybinds.md",
     "Arch Linux",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.22.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026",
