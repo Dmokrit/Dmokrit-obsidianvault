@@ -1,2 +1,2 @@
 # Disclaimer
-Bipolar episode incoming!!
+WATCH OUTT!! Bipolar episode incoming!!
