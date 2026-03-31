@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.26.md",
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026.03.26"
+              "title": "2026.03.31"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.26.md"
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.31.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026.03.26"
+              "title": "File properties for 2026.03.31"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.26.md",
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026.03.26"
+              "title": "Outline of 2026.03.31"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.26.md"
+                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.31.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,6 +254,9 @@
   },
   "active": "99356bbc9b16980a",
   "lastOpenFiles": [
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.28.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.31.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.26.md",
     "Arch Linux/Keybinds.md",
     "Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.24.md",
@@ -287,9 +290,6 @@
     "Personal/french algeria/3 Resources 𓆱/Clippings/Youtube/Light Bulb Letters – Why Art's Obsession With “Meaning” Is Ruining Creativity.md",
     "Personal/french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "Personal/french algeria/4 Archive 𓋹/z - Trash/Dear Annie,.md",
-    "Personal/french algeria/3 Resources 𓆱/Personal/Journal/2026-01-06.md",
-    "Personal/README.md",
-    "Personal/french algeria/4 Archive 𓋹/z - Trash/hope is a deceptive thought.md",
     "z - Test/Attachments/out-of-control.jpg",
     "Covers/The Plague - Albert Camus.jpg",
     "MARENGO/Attachments/out-of-control.jpg",
