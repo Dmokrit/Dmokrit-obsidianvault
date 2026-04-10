@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
+                "file": "NOSTALGIC GAMES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-07"
+              "title": "NOSTALGIC GAMES"
+            }
+          },
+          {
+            "id": "feb6a2e50fa75d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOSTALGIC GAMES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NOSTALGIC GAMES"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,9 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a693bdc7d487df8",
+  "active": "feb6a2e50fa75d5d",
   "lastOpenFiles": [
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md",
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md"
+    "NOSTALGIC GAMES.md",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md"
   ]
 }
