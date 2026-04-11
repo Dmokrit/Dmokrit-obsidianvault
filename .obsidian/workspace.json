@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOSTALGIC GAMES.md",
+                "file": "home server.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NOSTALGIC GAMES"
+              "title": "home server"
             }
           }
         ],
@@ -233,6 +233,8 @@
   },
   "active": "feb6a2e50fa75d5d",
   "lastOpenFiles": [
+    "plan.md",
+    "home server.md",
     "NOSTALGIC GAMES.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md"
