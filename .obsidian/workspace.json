@@ -11,10 +11,24 @@
             "id": "76de1b590d32170f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026.4.17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026.4.17"
             }
           }
         ]
@@ -194,6 +208,9 @@
   },
   "active": "76de1b590d32170f",
   "lastOpenFiles": [
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026.4.17.md",
     "Life Dashboard.md",
     "french algeria/3 Resources 𓆱/Trash/plan.md",
     "french algeria/3 Resources 𓆱/Trash/NOSTALGIC GAMES.md",
@@ -204,7 +221,6 @@
     "Untitled.md",
     "french algeria/2 Areas 𓏟/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.11.md",
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md"
   ]
 }
