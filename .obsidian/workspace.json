@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.11.md",
+                "file": "plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026.04.11"
+              "title": "plan"
             }
           }
         ],
@@ -233,10 +233,15 @@
   },
   "active": "feb6a2e50fa75d5d",
   "lastOpenFiles": [
-    "home server.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.11.md",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/Email draft.md",
     "plan.md",
     "NOSTALGIC GAMES.md",
+    "Life Dashboard.md",
+    "home server.md",
+    "README.md",
+    "Untitled.md",
+    "french algeria/2 Areas 𓏟/Untitled.md",
+    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.11.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md"
   ]
