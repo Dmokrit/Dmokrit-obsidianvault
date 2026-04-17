@@ -35,24 +35,10 @@
             "id": "feb6a2e50fa75d5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "plan"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -233,10 +219,11 @@
   },
   "active": "feb6a2e50fa75d5d",
   "lastOpenFiles": [
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/Email draft.md",
-    "plan.md",
-    "NOSTALGIC GAMES.md",
     "Life Dashboard.md",
+    "french algeria/3 Resources 𓆱/Trash/plan.md",
+    "french algeria/3 Resources 𓆱/Trash/NOSTALGIC GAMES.md",
+    "french algeria/3 Resources 𓆱/Trash",
+    "french algeria/3 Resources 𓆱/Personal/CSCUBE/Email draft.md",
     "home server.md",
     "README.md",
     "Untitled.md",
