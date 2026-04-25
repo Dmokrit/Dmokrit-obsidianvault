@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.19.md",
+                "file": "Life Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026.04.19"
+              "title": "Life Dashboard"
             }
           }
         ]
@@ -181,8 +181,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -206,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76de1b590d32170f",
+  "active": "4cbc477e97ef5445",
   "lastOpenFiles": [
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.19.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.18.md",
