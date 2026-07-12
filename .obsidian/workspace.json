@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91ca72f3e0413716",
+        "id": "b94883584bb3f6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a765eb06665ca9",
+            "id": "3b5008ad2c2cb853",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "attachments/Larson Edwards y Falvo Elementary Linear Algebra.pdf"
+                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Larson Edwards y Falvo Elementary Linear Algebra"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
             }
           }
         ]
@@ -195,12 +195,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4cbc477e97ef5445",
+  "active": "3b5008ad2c2cb853",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.13.excalidraw.md",
     "attachments/Larson Edwards y Falvo Elementary Linear Algebra.pdf",
     "attachments",
     "Excalidraw/Larson Edwards y Falvo Elementary Linear Algebra.pdf",
+    "Untitled 1.md",
     "work/Linear Algerbra.md",
     "Excalidraw",
     "Life Dashboard.md",
