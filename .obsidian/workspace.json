@@ -11,12 +11,24 @@
             "id": "3b5008ad2c2cb853",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
+                "file": "work/Linear Algerbra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "Linear Algerbra"
             }
           }
         ]
@@ -197,8 +209,8 @@
   },
   "active": "3b5008ad2c2cb853",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
     "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
     "Excalidraw/Drawing 2026-07-12 17.54.13.excalidraw.md",
     "attachments/Larson Edwards y Falvo Elementary Linear Algebra.pdf",
     "attachments",
