@@ -35,12 +35,24 @@
             "id": "0e1e3b97f861d56b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md"
+                "file": "work/Linear Algerbra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 17.42.33.excalidraw"
+              "icon": "lucide-file",
+              "title": "Linear Algerbra"
             }
           }
         ],
@@ -222,8 +234,8 @@
   },
   "active": "0e1e3b97f861d56b",
   "lastOpenFiles": [
-    "work/Linear Algerbra.md",
     "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
+    "work/Linear Algerbra.md",
     "Excalidraw",
     "Life Dashboard.md",
     "README.md",
