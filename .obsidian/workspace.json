@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Linear Algerbra"
             }
+          },
+          {
+            "id": "0e1e3b97f861d56b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 17.42.33.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +220,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "76de1b590d32170f",
+  "active": "0e1e3b97f861d56b",
   "lastOpenFiles": [
+    "work/Linear Algerbra.md",
+    "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
+    "Excalidraw",
     "Life Dashboard.md",
     "README.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.19.md",
