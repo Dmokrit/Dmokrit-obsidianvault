@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Dashboard.md",
+                "file": "Arch Linux/Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Dashboard"
+              "title": "Keybinds"
             }
           }
         ]
@@ -203,11 +203,14 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4cbc477e97ef5445",
   "lastOpenFiles": [
+    "Life Dashboard.md",
+    "README.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.19.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.18.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.22.md",
@@ -222,13 +225,11 @@
     "french algeria/Utility 𓌻/Bases/essay.base.base",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
-    "Life Dashboard.md",
     "french algeria/3 Resources 𓆱/Trash/plan.md",
     "french algeria/3 Resources 𓆱/Trash/NOSTALGIC GAMES.md",
     "french algeria/3 Resources 𓆱/Trash",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/Email draft.md",
     "home server.md",
-    "README.md",
     "Untitled.md",
     "french algeria/2 Areas 𓏟/Untitled.md",
     "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.02.md"
