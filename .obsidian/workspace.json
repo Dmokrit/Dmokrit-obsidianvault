@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch Linux/Keybinds.md",
+                "file": "work/Linear Algerbra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "Linear Algerbra"
             }
           }
         ]
@@ -207,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4cbc477e97ef5445",
+  "active": "76de1b590d32170f",
   "lastOpenFiles": [
     "Life Dashboard.md",
     "README.md",
