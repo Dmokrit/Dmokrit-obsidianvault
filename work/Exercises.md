@@ -7,4 +7,3 @@ Section 1.1
 	5. False
 	6. True
 ![[Pasted image 20260713143920.png]]
-	7. 
