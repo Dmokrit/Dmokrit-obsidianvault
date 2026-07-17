@@ -11,24 +11,12 @@
             "id": "3b5008ad2c2cb853",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "meursault1/links.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "links"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
             }
           }
         ]
@@ -209,8 +197,9 @@
   },
   "active": "3b5008ad2c2cb853",
   "lastOpenFiles": [
-    "links.md",
+    "attachments/Pasted image 20260713143920.png",
     "meursault1/links.md",
+    "links.md",
     "meursault1",
     "Untitled 1.md",
     "Untitled.md",
@@ -218,7 +207,6 @@
     "work/Exercises.md",
     "work/Linear Algerbra.md",
     "work/run notebooks.md",
-    "attachments/Pasted image 20260713143920.png",
     "attachments/Pasted image 20260713143832.png",
     "attachments",
     "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
@@ -243,7 +231,6 @@
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
     "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
     "french algeria/3 Resources 𓆱/Trash/plan.md",
-    "french algeria/3 Resources 𓆱/Trash/NOSTALGIC GAMES.md",
     "french algeria/3 Resources 𓆱/Trash"
   ]
 }
