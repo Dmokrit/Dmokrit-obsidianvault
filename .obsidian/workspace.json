@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "8731e7f18a4c3699",
+    "id": "1a3f23a85d6638ab",
     "type": "split",
     "children": [
       {
-        "id": "b94883584bb3f6fc",
+        "id": "0812cba2a5d22e18",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5008ad2c2cb853",
+            "id": "66be41d86256ee8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "465bb2e6fcae95b6",
+    "id": "deaeb919e7dd57bb",
     "type": "split",
     "children": [
       {
-        "id": "263f936f7681c998",
+        "id": "c6ab53785351a5fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4cbc477e97ef5445",
+            "id": "b4b164a1ebc4b242",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +44,7 @@
             }
           },
           {
-            "id": "27c552938c19a71a",
+            "id": "b99ca7965096122a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +61,7 @@
             }
           },
           {
-            "id": "89b428c8e8c11053",
+            "id": "c8a52a1491ada600",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "9dfda118ce2e9236",
+    "id": "87232c695d7923c1",
     "type": "split",
     "children": [
       {
-        "id": "3c0971dcfe2dc448",
+        "id": "63f46e5ab8129fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "f1836893384edf49",
+            "id": "739e66900bbaec80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-07"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bf12cbd8d470cda0",
+            "id": "6e2af1e1bb1e4a6a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-07"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bc536b0daa9ab567",
+            "id": "3a4986aca4d4136e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "8118f04f1f70daf5",
+            "id": "d16c3984dff3637d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,28 +145,27 @@
             }
           },
           {
-            "id": "7e07e90bd7b48655",
+            "id": "9570c1d0585d20b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-07"
+              "title": "Outline"
             }
           },
           {
-            "id": "4a2504b4f3a64e2b",
+            "id": "998291b5323d823c",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -195,42 +190,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b5008ad2c2cb853",
-  "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
-    "attachments/Pasted image 20260713143920.png",
-    "meursault1/links.md",
-    "links.md",
-    "meursault1",
-    "Untitled 1.md",
-    "Untitled.md",
-    "work/Exercises.md",
-    "work/Linear Algerbra.md",
-    "work/run notebooks.md",
-    "attachments/Pasted image 20260713143832.png",
-    "attachments",
-    "Excalidraw/Drawing 2026-07-12 17.42.33.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-12 17.54.13.excalidraw.md",
-    "attachments/Larson Edwards y Falvo Elementary Linear Algebra.pdf",
-    "Excalidraw/Larson Edwards y Falvo Elementary Linear Algebra.pdf",
-    "Excalidraw",
-    "Life Dashboard.md",
-    "README.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.19.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.18.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.22.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/03 Mar/2026.03.28.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.11.md",
-    "french algeria/3 Resources 𓆱/Personal/Diary/Untitled.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.15.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.16.md",
-    "french algeria/3 Resources 𓆱/Personal/Journal/2026/04 Apr/2026.04.17.md",
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026.4.17.md",
-    "french algeria/Utility 𓌻/Bases/fleeting_note.base.base",
-    "french algeria/Utility 𓌻/Bases/essay.base.base",
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-02-12.md",
-    "french algeria/3 Resources 𓆱/Personal/CSCUBE/2026-04-07.md",
-    "french algeria/3 Resources 𓆱/Trash/plan.md",
-    "french algeria/3 Resources 𓆱/Trash"
-  ]
+  "active": "66be41d86256ee8c",
+  "lastOpenFiles": []
 }
