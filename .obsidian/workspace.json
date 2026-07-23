@@ -11,10 +11,24 @@
             "id": "66be41d86256ee8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Obscure Purpose of a Nitwit - Minecraft"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Obscure Purpose of a Nitwit - Minecraft"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Obscure Purpose of a Nitwit - Minecraft"
             }
           },
           {
@@ -150,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Obscure Purpose of a Nitwit - Minecraft"
             }
           },
           {
@@ -191,5 +208,12 @@
     }
   },
   "active": "66be41d86256ee8c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Life Dashboard.md",
+    "meursault1/links.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+    "attachments/Pasted image 20260713143920.png",
+    "attachments/Pasted image 20260713143832.png"
+  ]
 }
