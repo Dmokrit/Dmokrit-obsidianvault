@@ -11,11 +11,23 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Aryesha Macasero.png"
+                "file": "work/Resources/People/Aryesha Macasero.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "Aryesha Macasero"
             }
           }
@@ -195,12 +207,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4b164a1ebc4b242",
+  "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
-    "work/Resources/People/Aryesha Macasero.md",
     "work/People.base",
-    "attachments/Aryesha Macasero.png",
     "work/TO DO.md",
+    "french algeria/3 Resources 𓆱/Books/Untitled.md",
+    "meursault1/links.md",
+    "work/Resources/People/Aryesha Macasero.md",
+    "attachments/Aryesha Macasero.png",
     "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources",
     "work/Resources/People/Allan Jay G. Pajo.md",
@@ -227,8 +241,6 @@
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
-    "work/Resources/People/Mildred Jade A. Palma.md",
     "work/People/_01People.base",
     "Untitled.base",
     "work/Resources/People",
