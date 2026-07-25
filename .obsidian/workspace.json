@@ -11,13 +11,24 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/_SCITC 2025 - 2026.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Amielle James A. Nicolas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "_SCITC 2025 - 2026"
+              "icon": "lucide-file",
+              "title": "Amielle James A. Nicolas"
             }
           }
         ]
@@ -198,8 +209,15 @@
   },
   "active": "b4b164a1ebc4b242",
   "lastOpenFiles": [
-    "work/Resources/People/Willie Marcel B. Ompoy.md",
+    "work/Resources/People/Amielle James A. Nicolas.md",
+    "Untitled.md",
+    "work/Legislative/2025-2026/Moderator and Executives.base",
+    "work/Legislative/2025-2026/Legislative Council.md",
+    "work/Legislative/2025-2026/Legislative Council.base",
     "work/_SCITC 2025 - 2026.base",
+    "work/_SITE.base",
+    "work/_CS3.base",
+    "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/Resources/People/Videlyn Francine Tee.md",
     "work/Resources/People/Mrs. Crystal Sylvette Lavender P. Raro.md",
     "work/Resources/People/James David A. Casocot.md",
@@ -207,8 +225,6 @@
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/_SITE.base",
-    "work/_CS3.base",
     "work/Resources/People/Jose Democritus A. Dignos.md",
     "work/People.base",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
@@ -224,13 +240,10 @@
     "attachments/749132918_1661608082636778_7945980864988473398_n 1.jpg",
     "attachments/750903899_1661608645970055_5047385195896809424_n 1.jpg",
     "work/Resources/People/Gabriel S. Daguisonan.md",
-    "work/Legislative/2025-2026/Legislative Council.base",
-    "work/Legislative/2025-2026/Legislative Council.md",
     "work/Untitled.md",
     "Untitled/Untitled.md",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Allan Jay G. Pajo.md",
-    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
@@ -241,7 +254,6 @@
     "attachments/700762879_122181311846602661_5979075992126614957_n 1.xcf",
     "attachments/700762879_122181311846602661_5979075992126614957_n.xcf",
     "work/Resources",
-    "work/Legislative/2025-2026/Moderator and Executives.base",
     "work/Legislative/2026 - 2027"
   ]
 }
