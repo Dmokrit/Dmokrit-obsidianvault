@@ -35,24 +35,13 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Allan Jay G. Pajo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Allan Jay G. Pajo"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ],
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Resources/People/Allan Jay G. Pajo.md",
+                "file": "work/People.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Allan Jay G. Pajo"
+              "title": "Backlinks for People"
             }
           },
           {
@@ -234,6 +223,7 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/People.base",
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
     "work/Resources/People/Shekinah S. Cañete.md",
@@ -254,7 +244,6 @@
     "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
