@@ -35,24 +35,13 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Sean S. Kilat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Sean S. Kilat"
+              "icon": "lucide-layout-grid",
+              "title": "Legislative Council"
             }
           }
         ],
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Resources/People/Sean S. Kilat.md",
+                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sean S. Kilat"
+              "title": "Backlinks for Legislative Council"
             }
           },
           {
@@ -234,7 +223,10 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
+    "work/Resources/People/Shekinah S. Cañete.md",
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+    "work/Resources/People/Seth Xaviery L. Lofranco.md",
+    "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "work/Resources/People/Roxanne S. Senoc.md",
     "work/Resources/People/Ronald Salig.md",
@@ -263,9 +255,6 @@
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Legislative/2026 - 2027/CS3/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Untitled",
-    "work/Resources/People/Shekinah S. Cañete.md",
-    "work/Resources/People/Aryesha S. Macasero.md",
-    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/Legislative/2026 - 2027/CS3",
     "work/Legislative/2026 - 2027/Legislative Council",
     "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",

@@ -1,5 +1,7 @@
 ---
-tags: contact
+tags: 
+- contact
+- GUJDASCI
 role: President
 role.abbr: Pres
 org: Guild of Junior Data Scientist (GUJDASCI)
