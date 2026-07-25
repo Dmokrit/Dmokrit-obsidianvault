@@ -1,6 +1,7 @@
 ---
 tags:
   - contact
+  - CS3
 role: Vice President - Internal
 role.abbr: VPI
 org: Computer Science Student Society (CS3)
