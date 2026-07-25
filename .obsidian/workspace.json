@@ -746,7 +746,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/Hello.md",
+                "file": "website/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -761,7 +761,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "Index"
             }
           }
         ],
@@ -838,7 +838,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "website/Hello.md",
+                "file": "website/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -848,7 +848,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -943,8 +943,9 @@
   },
   "active": "c863883b7750ff8b",
   "lastOpenFiles": [
-    "we.md",
     "website/Hello.md",
+    "website/Index.md",
+    "we.md",
     "website/TO DO.md",
     "website/People!noTAGS.base",
     "website/People.base",
@@ -973,7 +974,6 @@
     "website/Resources/People/Bryle Y. Binayao.md",
     "website/Resources/People/Ariel Del Puerto.md",
     "website/Resources/People/Leann Ang.md",
-    "website/Resources/People/Maria Nadela.md",
     "website/Resources/Attachments/751864970_1661607415970178_15405368762980060_n 1.jpg",
     "website/Resources/Attachments/750903899_1661608645970055_5047385195896809424_n.jpg",
     "website/Resources/Attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
