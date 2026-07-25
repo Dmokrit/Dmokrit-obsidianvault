@@ -1,5 +1,5 @@
 ---
 tags: contact
 role: Moderator
-branch: College of Information Technology and Computing (SCITC)
+org: College of Information Technology and Computing (SCITC)
 ---
