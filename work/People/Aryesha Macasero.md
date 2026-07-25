@@ -1,4 +1,5 @@
 ---
 tags: contact
-title:
+role: President
+org: Computer Science Student Society (CS3)
 ---
