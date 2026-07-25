@@ -4,275 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0812cba2a5d22e18",
+        "id": "09ff93cfb9ab9019",
         "type": "tabs",
         "children": [
           {
-            "id": "66be41d86256ee8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Rhian Flores.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rhian Flores"
-            }
-          },
-          {
-            "id": "20cb12ce8fb1e77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Ronald Salig.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ronald Salig"
-            }
-          },
-          {
-            "id": "52a826dbfdc1e7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/AllanJay G. Pajo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AllanJay G. Pajo"
-            }
-          },
-          {
-            "id": "2597875caedc87e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Amielle James A. Nicolas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Amielle James A. Nicolas"
-            }
-          },
-          {
-            "id": "c2df6f80cf552abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Aryesha Macasero.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aryesha Macasero"
-            }
-          },
-          {
-            "id": "cb2f62b9f48bfd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Gabriel S. Daguisonan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gabriel S. Daguisonan"
-            }
-          },
-          {
-            "id": "6ad7937f02958e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Giean Franco Flores Cabugsa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Giean Franco Flores Cabugsa"
-            }
-          },
-          {
-            "id": "5907c21eadad38d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Jyllan Z. Excelise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jyllan Z. Excelise"
-            }
-          },
-          {
-            "id": "e2fa2ef674260459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Jose Democritus Dignos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jose Democritus Dignos"
-            }
-          },
-          {
-            "id": "fdde3a6057815547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Lawrence A. Esclamado.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lawrence A. Esclamado"
-            }
-          },
-          {
-            "id": "c4300610de6f7cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/People/Sean Benedict Abejay Maandig.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sean Benedict Abejay Maandig"
-            }
-          },
-          {
-            "id": "954bb055933401c1",
+            "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -295,8 +31,7 @@
               "title": "Yrika Angelein C. Caalim"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -472,32 +207,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "954bb055933401c1",
+  "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
-    "work/People/Jose Democritus Dignos.md",
-    "work/People/Gabriel S. Daguisonan.md",
-    "work/People.base",
-    "work/People/AllanJay G. Pajo.md",
-    "work/People/Amielle James A. Nicolas.md",
-    "work/People/Aryesha Macasero.md",
-    "work/People/John Michael Angelo C. Binonggo.md",
     "work/People/Giean Franco Flores Cabugsa.md",
-    "work/People/Jyllan Z. Excelise.md",
-    "work/People/Jynobbele Margareth V. Jacobo.md",
-    "work/People/Kattrina Grace Naviamos.md",
-    "work/People/Lawrence A. Esclamado.md",
-    "work/People/Life Dashboard.md",
-    "work/People/Mildred Jade A. Palma.md",
-    "work/People/Nathaniel Rosell E. Beatisula.md",
-    "work/People/Mims Abarido.md",
-    "work/People/Orson Dave Vincent Daug.md",
-    "work/People/README.md",
-    "work/People/Rhian Flores.md",
-    "work/People/Ronald Salig.md",
-    "work/People/Roxanne Senoc.md",
-    "work/People/Sean Benedict Abejay Maandig.md",
+    "work/People/Aryesha Macasero.md",
+    "work/People/Amielle James A. Nicolas.md",
+    "work/People/Allan Jay G. Pajo.md",
     "work/People/Yrika Angelein C. Caalim.md",
     "work/People/Seth Xaviery L. Lofranco.md",
+    "work/People/Rhian Flores.md",
+    "work/People/Roxanne S. Senoc.md",
+    "work/People/Orson Dave Vincent Daug.md",
+    "work/People/Nathaniel Rosell E. Beatisula.md",
+    "work/People/Mims Abarido.md",
+    "work/People/Mildred Jade A. Palma.md",
+    "work/People/Lawrence A. Esclamado.md",
+    "work/People/Kattrina Grace Naviamos.md",
+    "work/People/Jynobbele Margareth V. Jacobo.md",
+    "work/People/Jyllan Z. Excelise.md",
+    "Life Dashboard.md",
+    "work/People/Jose Democritus Dignos.md",
+    "work/People/John Michael Angelo C. Binonggo.md",
+    "work/People/Gabriel S. Daguisonan.md",
+    "work/People/Sean Benedict Abejay Maandig.md",
+    "work/People/Ronald Salig.md",
+    "work/People.base",
+    "README.md",
     "work/People/_01People.base",
     "Untitled.base",
     "work/People/Sean S. Kilat.md",
