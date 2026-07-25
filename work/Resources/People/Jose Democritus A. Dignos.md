@@ -3,7 +3,8 @@ tags:
   - contact
   - CS3
   - Legislative
-role: Events Committee Member
+  - Events
+role: Events Team Member
 role.abbr: Events
 org: Computer Science Student Society (CS3)
 org.abbr: CS3

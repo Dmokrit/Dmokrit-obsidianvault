@@ -739,9 +739,22 @@
               "icon": "lucide-layout-grid",
               "title": "People"
             }
+          },
+          {
+            "id": "c863883b7750ff8b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "work/People.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "People"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -917,35 +930,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "19a92840a2bff967",
+  "active": "c863883b7750ff8b",
   "lastOpenFiles": [
-    "work/People!noTAGS.base",
+    "work/Resources/People/Rhian Flores.md",
     "work/People.base",
-    "work/Resources/People/Trisha Poligrates.md",
     "work/Resources/People/VP Fiel.md",
+    "work/Resources/People/Leann Ang.md",
+    "work/Resources/People/Jose Democritus A. Dignos.md",
+    "work/Resources/People/Ingrid Cloma.md",
+    "work/Resources/People/Ian Devero.md",
+    "work/Resources/People/Ariel Del Puerto.md",
+    "work/Resources/People/Daniel Osiones.md",
+    "work/Resources/People/111.md",
+    "work/People!noTAGS.base",
+    "work/Resources/People/Trisha Poligrates.md",
     "work/Resources/People/Tudor Dwayne.md",
     "work/Resources/People/Tiptip.md",
     "work/Resources/People/Paolo Vince Tang.md",
     "README.md",
-    "work/Resources/People/Ariel Del Puerto.md",
     "work/Resources/People/Marivy Silao.md",
-    "work/Resources/People/Leann Ang.md",
     "Life Dashboard.md",
     "work/Resources/People/Maria Nadela.md",
     "work/Resources/People/Kent Aljon.md",
     "work/Resources/People/Kathleen Grace Gultiano.md",
     "work/Resources/People/John Lloyd Estoque.md",
-    "work/Resources/People/Ingrid Cloma.md",
-    "work/Resources/People/Ian Devero.md",
     "work/Resources/People/Humpee Pabilona.md",
     "work/Resources/People/Gerlie Campion.md",
     "work/Resources/People/Evho Bagares.md",
     "work/Resources/People/Emma Aminao.md",
     "work/Resources/People/Dionecey Amplayo.md",
-    "work/Resources/People/David Perez.md",
-    "work/Resources/People/Danielle Erika Perez.md",
-    "work/Resources/People/Cassey Dono-an.md",
-    "work/Resources/People/Bryle Y. Binayao.md",
     "work/Legislative/2026 - 2027/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Legislative Council.base",
     "work/_SITE.base",
@@ -957,7 +970,6 @@
     "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
     "attachments/749584827_1661596475971272_2324412444209087630_n.jpg",
     "attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
-    "attachments",
     "work/Resources/Attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
     "work/Resources/Attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
     "work/Resources/Attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
