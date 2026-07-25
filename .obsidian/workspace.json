@@ -35,6 +35,510 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/Resources/People/Antonette Hian Serato.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Antonette Hian Serato"
+            }
+          },
+          {
+            "id": "f6b60c706586dfda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ariel Del Puerto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ariel Del Puerto"
+            }
+          },
+          {
+            "id": "2cad88e90dacf0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bryle Y. Binayao.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bryle Y. Binayao"
+            }
+          },
+          {
+            "id": "ba2d31a190b5e82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cassey Dono-an.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cassey Dono-an"
+            }
+          },
+          {
+            "id": "1a48e83d8cf01647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Danielle Erika Perez.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Danielle Erika Perez"
+            }
+          },
+          {
+            "id": "efa594c990f7c2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "David Perez.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "David Perez"
+            }
+          },
+          {
+            "id": "8a4e0b7a101eb513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dionecey Amplayo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dionecey Amplayo"
+            }
+          },
+          {
+            "id": "fc92cd3f2564ab45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emma Aminao.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Emma Aminao"
+            }
+          },
+          {
+            "id": "6230eee073e2654a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evho Bagares.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Evho Bagares"
+            }
+          },
+          {
+            "id": "cc25f22800330085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerlie Campion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gerlie Campion"
+            }
+          },
+          {
+            "id": "80e451b3f99f9850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humpee Pabilona.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Humpee Pabilona"
+            }
+          },
+          {
+            "id": "93081381f5d1dc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ian Devero.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ian Devero"
+            }
+          },
+          {
+            "id": "4f94bfdd129113f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingrid Cloma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingrid Cloma"
+            }
+          },
+          {
+            "id": "1b728da2343f751e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John Lloyd Estoque.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John Lloyd Estoque"
+            }
+          },
+          {
+            "id": "0e5537c6ffff8c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kathleen Grace Gultiano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kathleen Grace Gultiano"
+            }
+          },
+          {
+            "id": "1f1e1832ccd69a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kent Aljon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kent Aljon"
+            }
+          },
+          {
+            "id": "e72aa05ea373a4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leann Ang.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leann Ang"
+            }
+          },
+          {
+            "id": "20f902f2d653abe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maria Nadela.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maria Nadela"
+            }
+          },
+          {
+            "id": "9f39e8098ccf90a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marivy Silao.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Marivy Silao"
+            }
+          },
+          {
+            "id": "aaac54f22f29d0f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paolo Vince Tang.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Paolo Vince Tang"
+            }
+          },
+          {
+            "id": "3491b674c18cb6de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiptip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tiptip"
+            }
+          },
+          {
+            "id": "33d4fb866510f09c",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
                 "file": "work/People.base",
@@ -45,7 +549,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -221,37 +725,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27a167cebf5bd943",
+  "active": "33d4fb866510f09c",
   "lastOpenFiles": [
-    "work/Resources/People/Yrika Angelein C. Caalim.md",
+    "Untitled.md",
+    "Tiptip.md",
+    "Paolo Vince Tang.md",
+    "Marivy Silao.md",
+    "Maria Nadela.md",
+    "Leann Ang.md",
+    "Kent Aljon.md",
+    "Kathleen Grace Gultiano.md",
+    "John Lloyd Estoque.md",
+    "Ingrid Cloma.md",
+    "Ian Devero.md",
+    "Humpee Pabilona.md",
+    "Gerlie Campion.md",
+    "Evho Bagares.md",
+    "Emma Aminao.md",
+    "Dionecey Amplayo.md",
+    "David Perez.md",
+    "Danielle Erika Perez.md",
+    "Cassey Dono-an.md",
+    "Bryle Y. Binayao.md",
+    "Ariel Del Puerto.md",
+    "work/Resources/People/Antonette Hian Serato.md",
+    "work/Resources/People/Amethyst Bonocan.md",
     "work/Legislative/2026 - 2027/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Legislative Council.base",
+    "work/People.base",
+    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Sean S. Kilat.md",
-    "work/Resources/People/Sean Benedict Abejay Maandig.md",
-    "work/Resources/People/Ronald Salig.md",
-    "work/Resources/People/Rhian Flores.md",
-    "work/Resources/People/Lawrence A. Esclamado.md",
-    "work/Resources/People/Jyllan Z. Excelise.md",
-    "work/Resources/People/Gabriel S. Daguisonan.md",
-    "work/Resources/People/Aryesha S. Macasero.md",
-    "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
-    "work/People.base",
-    "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/Resources/People/Jose Democritus A. Dignos.md",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
-    "work/Resources/People/Shekinah S. Cañete.md",
-    "work/Resources/People/Roxanne S. Senoc.md",
-    "work/Resources/People/Mims Kiaya V. Abarido.md",
-    "work/Resources/People/Mildred Jade A. Palma.md",
-    "work/Resources/People/Kattrina Grace Naviamos.md",
-    "work/Resources/People/Jynobbele Margareth V. Jacobo.md",
-    "work/Resources/People/John Michael Angelo C. Binonggo.md",
-    "work/Resources/People/Giean Franco Flores Cabugsa.md",
-    "work/Resources/People/Jade Natasha S. Ragot.md",
-    "work/Resources/People/Gabriel Mihally E. Casiño.md",
-    "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
     "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
