@@ -3,9 +3,10 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("SCITC")
+        - file.tags.contains("contact")
     order:
       - file.name
       - role.abbr
       - A.Y
+      - tags
     image: note.image
