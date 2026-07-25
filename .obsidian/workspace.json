@@ -746,7 +746,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/Index.md",
+                "file": "website/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -761,7 +761,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "index"
             }
           }
         ],
@@ -838,7 +838,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "website/Index.md",
+                "file": "website/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -848,7 +848,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -944,7 +944,7 @@
   "active": "c863883b7750ff8b",
   "lastOpenFiles": [
     "website/Hello.md",
-    "website/Index.md",
+    "website/index.md",
     "we.md",
     "website/TO DO.md",
     "website/People!noTAGS.base",
