@@ -11,13 +11,12 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "attachments/Shekinah S. Cañete.png"
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-image",
+              "title": "Shekinah S. Cañete"
             }
           }
         ]
@@ -196,8 +195,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b86d005ce11a3afe",
+  "active": "b4b164a1ebc4b242",
   "lastOpenFiles": [
+    "attachments/700762879_122181311846602661_5979075992126614957_n.xcf",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/People.base",
     "work/Resources/People/Aryesha Macasero.md",
