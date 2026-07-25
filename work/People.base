@@ -10,4 +10,4 @@ views:
       - role
     image: note.image
     cardSize: 150
-    imageAspectRatio: 1.4
+    imageAspectRatio: 1

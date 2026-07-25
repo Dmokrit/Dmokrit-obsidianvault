@@ -11,12 +11,13 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "bases",
               "state": {
-                "file": "attachments/Shekinah S. Cañete.png"
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-image",
-              "title": "Shekinah S. Cañete"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -195,14 +196,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4b164a1ebc4b242",
+  "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
+    "work/Resources/People/Shekinah S. Cañete.md",
+    "work/People.base",
+    "Life Dashboard.md",
     "attachments/Shekinah S. Cañete.png",
     "attachments/1.png",
     "attachments/700762879_122181311846602661_5979075992126614957_n 1.xcf",
     "attachments/700762879_122181311846602661_5979075992126614957_n.xcf",
-    "work/Resources/People/Shekinah S. Cañete.md",
-    "work/People.base",
     "work/Resources/People/Aryesha Macasero.md",
     "attachments/Yrika Angelein C. Caalim.png",
     "attachments/Aryesha S. Macasero.png",
@@ -217,7 +219,6 @@
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "07.23.26.md",
-    "Life Dashboard.md",
     "work/Resources/People/Videlyn Francine Tee.md",
     "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/Resources/People/Jose Democritus Dignos.md",
