@@ -1,5 +1,5 @@
 ---
 tags: contact
 role: Representative
-org: Data Science
+org: Data Science (DS)
 ---

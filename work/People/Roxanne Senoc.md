@@ -1,5 +1,5 @@
 ---
 tags: contact
-role: Vice President for External
+role: General Secretary
 org: College of Information Technology and Computing (SCITC)
 ---

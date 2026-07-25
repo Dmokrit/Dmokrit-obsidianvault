@@ -1,5 +1,6 @@
 ---
 tags: contact
-role: Vice President for External
+role: Auditor
 org: College of Information Technology and Computing (SCITC)
+image: 
 ---

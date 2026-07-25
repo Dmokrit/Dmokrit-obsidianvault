@@ -1,5 +1,5 @@
 ---
 tags: contact
 role: Representative
-org: Technology Communication Management
+org: Technology Communication Management (TCM)
 ---

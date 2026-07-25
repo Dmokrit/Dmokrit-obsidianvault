@@ -1,5 +1,5 @@
 ---
 tags: contact
 role: Representative
-org: Computer Science
+org: Computer Science (CS3)
 ---

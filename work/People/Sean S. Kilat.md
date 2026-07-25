@@ -1,5 +1,5 @@
 ---
 tags: contact
 role: Representative
-org: Information Technology
+org: Information Technology (IT)
 ---

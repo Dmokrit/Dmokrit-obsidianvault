@@ -1,5 +1,5 @@
 ---
 tags: contact
-role: Vice President for External
+role: Treasurer
 org: College of Information Technology and Computing (SCITC)
 ---
