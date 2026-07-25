@@ -11,13 +11,12 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "attachments/Aryesha Macasero.png"
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-image",
+              "title": "Aryesha Macasero"
             }
           }
         ]
@@ -198,9 +197,13 @@
   },
   "active": "b4b164a1ebc4b242",
   "lastOpenFiles": [
+    "work/Resources/People/Aryesha Macasero.md",
+    "work/People.base",
+    "attachments/Aryesha Macasero.png",
+    "work/TO DO.md",
+    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources",
     "work/Resources/People/Allan Jay G. Pajo.md",
-    "work/People.base",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "07.23.26.md",
@@ -211,7 +214,6 @@
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Yrika Angelein C. Caalim.md",
-    "work/TO DO.md",
     "work/Legislative/2025-2026/Legislative Council.base",
     "work/Legislative/2025-2026/Legislative Council.md",
     "work/Legislative/2025-2026/Moderator and Executives.base",
@@ -222,18 +224,15 @@
     "work/Resources/People/Gwyneth Dawn S. Rodriguez.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
-    "work/Resources/People/Aryesha Macasero.md",
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
-    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Resources/People/Mildred Jade A. Palma.md",
     "work/People/_01People.base",
     "Untitled.base",
     "work/Resources/People",
     "work/TO DO",
-    "work/Legislative/People",
     "attachments/Pasted image 20260713143920.png",
     "attachments/Pasted image 20260713143832.png"
   ]

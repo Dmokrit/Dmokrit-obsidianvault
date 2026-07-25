@@ -8,3 +8,6 @@ views:
       - file.name
       - org
       - role
+      - image
+    image: note.image
+    cardSize: 150
