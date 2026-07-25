@@ -1,5 +1,5 @@
 ---
 tags: contact
-role: Vice President for Inter
+role:
 org: Computer Science Student Society (CS3)
 ---
