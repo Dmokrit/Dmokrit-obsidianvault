@@ -5,5 +5,5 @@ tags:
 role: Vice President - External
 org: College of Information Technology and Computing (SCITC)
 org.abbr: SCITC
-A.Y: 2025-2026
+A.Y: 2025 - 2026
 ---

@@ -5,4 +5,5 @@ views:
       and:
         - file.tags.contains("contact")
         - file.tags.contains("SCITC")
+        - note["A.Y"].contains("2025 - 2026")
     image: note.image
