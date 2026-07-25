@@ -11,24 +11,13 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Aryesha Macasero.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Aryesha Macasero"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -209,12 +198,15 @@
   },
   "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
+    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/People.base",
+    "attachments/Pasted image 20260725164423.png",
+    "attachments/Yrika Angelein C. Caalim.png",
+    "attachments/Aryesha Macasero.png",
+    "work/Resources/People/Aryesha Macasero.md",
     "work/TO DO.md",
     "french algeria/3 Resources 𓆱/Books/Untitled.md",
     "meursault1/links.md",
-    "work/Resources/People/Aryesha Macasero.md",
-    "attachments/Aryesha Macasero.png",
     "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources",
     "work/Resources/People/Allan Jay G. Pajo.md",
@@ -227,7 +219,6 @@
     "work/Resources/People/Jose Democritus Dignos.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Shekinah S. Cañete.md",
-    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/Legislative/2025-2026/Legislative Council.base",
     "work/Legislative/2025-2026/Legislative Council.md",
     "work/Legislative/2025-2026/Moderator and Executives.base",
