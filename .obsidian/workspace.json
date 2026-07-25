@@ -35,13 +35,24 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/John Michael Angelo C. Binonggo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Legislative Council"
+              "icon": "lucide-file",
+              "title": "John Michael Angelo C. Binonggo"
             }
           }
         ],
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+                "file": "work/Resources/People/John Michael Angelo C. Binonggo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Legislative Council"
+              "title": "Backlinks for John Michael Angelo C. Binonggo"
             }
           },
           {
@@ -223,8 +234,10 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
-    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+    "work/Resources/People/Giean Franco Flores Cabugsa.md",
+    "work/Resources/People/Gabriel S. Daguisonan.md",
+    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
@@ -236,7 +249,6 @@
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
-    "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/Legislative/2026 - 2027/CS3/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Untitled",
     "work/Resources/People/Shekinah S. Cañete.md",
@@ -257,7 +269,6 @@
     "work/Resources/People/Rhian Flores.md",
     "work/Resources/People/Mrs. Crystal Sylvette Lavender P. Raro.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
-    "work/Resources/People/Mildred Jade A. Palma.md",
     "attachments/749584827_1661596475971272_2324412444209087630_n.jpg",
     "attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
     "attachments",
