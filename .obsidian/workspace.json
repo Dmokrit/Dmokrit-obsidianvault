@@ -11,12 +11,13 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "bases",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+                "file": "work/People.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-07-12 17.54.34.excalidraw"
+              "title": "Backlinks for People"
             }
           },
           {
@@ -197,6 +198,8 @@
   },
   "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
+    "work/People/Gabriel S. Daguisonan.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "07.23.26.md",
     "Life Dashboard.md",
     "work/People/Videlyn Francine Tee.md",
@@ -226,8 +229,6 @@
     "work/People/Nathaniel Rosell E. Beatisula.md",
     "work/People/Mildred Jade A. Palma.md",
     "work/People/Lawrence A. Esclamado.md",
-    "work/People/Kattrina Grace Naviamos.md",
-    "work/People/John Michael Angelo C. Binonggo.md",
     "work/People/_01People.base",
     "Untitled.base",
     "work/People",
