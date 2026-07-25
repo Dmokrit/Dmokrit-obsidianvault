@@ -1,13 +1,6 @@
 ---
-title: Home
+title: Welcome to Quartz
 ---
 
-# Hello!
-
-Welcome to my digital garden.
-
-This site is powered by Quartz.
-
-## Recent Notes
-
-- [[My First Note]]
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
