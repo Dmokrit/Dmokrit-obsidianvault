@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("contact")
+        - file.tags.contains("SCITC")
+    image: note.image
