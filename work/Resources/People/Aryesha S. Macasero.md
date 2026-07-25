@@ -2,6 +2,7 @@
 tags:
   - contact
   - CS3
+  - Legislative
 role: President
 role.abbr: Pres
 org: Computer Science Student Society (CS3)

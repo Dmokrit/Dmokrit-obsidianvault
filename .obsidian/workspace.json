@@ -35,13 +35,24 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Jyllan Z. Excelise.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Jyllan Z. Excelise"
             }
           }
         ],
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/People.base",
+                "file": "work/Resources/People/Jyllan Z. Excelise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for People"
+              "title": "Backlinks for Jyllan Z. Excelise"
             }
           },
           {
@@ -223,8 +234,12 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
-    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/People.base",
+    "work/Resources/People/Jose Democritus A. Dignos.md",
+    "work/Resources/People/Gabriel S. Daguisonan.md",
+    "work/Resources/People/Aryesha S. Macasero.md",
+    "work/Resources/People/Amielle James A. Nicolas.md",
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
@@ -239,11 +254,8 @@
     "work/Resources/People/Kattrina Grace Naviamos.md",
     "work/Resources/People/Jynobbele Margareth V. Jacobo.md",
     "work/Resources/People/Jyllan Z. Excelise.md",
-    "work/Resources/People/Jose Democritus A. Dignos.md",
     "work/Resources/People/John Michael Angelo C. Binonggo.md",
     "work/Resources/People/Giean Franco Flores Cabugsa.md",
-    "work/Resources/People/Gabriel S. Daguisonan.md",
-    "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
@@ -252,7 +264,6 @@
     "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Legislative/2026 - 2027/CS3/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Untitled",
     "work/Legislative/2026 - 2027/CS3",

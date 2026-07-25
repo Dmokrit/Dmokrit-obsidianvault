@@ -2,6 +2,7 @@
 tags:
   - contact
   - CS3
+  - Legislative
 role: Representative
 role.abbr: Rep
 org: Computer Science Student Society (CS3)
