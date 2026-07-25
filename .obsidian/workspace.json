@@ -11,24 +11,13 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Yrika Angelein C. Caalim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Yrika Angelein C. Caalim"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -209,19 +198,20 @@
   },
   "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
+    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/People.base",
+    "attachments/Yrika Angelein C. Caalim.png",
+    "attachments/Yrika Angelein C. Caalim.jpg",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "attachments/Shekinah S. Cañete.png",
     "attachments/Aryesha S. Macasero.jpg",
     "work/TO DO.md",
-    "work/Resources/People/Yrika Angelein C. Caalim.md",
     "attachments/Aryesha S. Macasero.png",
     "Life Dashboard.md",
     "attachments/1.png",
     "attachments/700762879_122181311846602661_5979075992126614957_n 1.xcf",
     "attachments/700762879_122181311846602661_5979075992126614957_n.xcf",
-    "attachments/Yrika Angelein C. Caalim.png",
     "attachments/Pasted image 20260725164423.png",
     "french algeria/3 Resources 𓆱/Books/Untitled.md",
     "meursault1/links.md",
