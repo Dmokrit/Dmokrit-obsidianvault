@@ -1,5 +1,7 @@
 ---
-tags: contact
+tags:
+  - contact
+  - CS3
 role: Events Committee Member
 role.abbr: Events
 org: Computer Science Student Society (CS3)
