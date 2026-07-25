@@ -35,13 +35,24 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Aryesha S. Macasero.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Aryesha S. Macasero"
             }
           }
         ],
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/People.base",
+                "file": "work/Resources/People/Aryesha S. Macasero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for People"
+              "title": "Backlinks for Aryesha S. Macasero"
             }
           },
           {
@@ -223,8 +234,11 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
-    "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
     "work/People.base",
+    "work/Resources/People/Angel Janette D. Taglucop.md",
+    "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+    "work/Resources/People/Jose Democritus A. Dignos.md",
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
@@ -233,11 +247,9 @@
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Resources/People/Lawrence A. Esclamado.md",
     "work/Resources/People/Jyllan Z. Excelise.md",
-    "work/Resources/People/Jose Democritus A. Dignos.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Roxanne S. Senoc.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
@@ -249,7 +261,6 @@
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
-    "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
