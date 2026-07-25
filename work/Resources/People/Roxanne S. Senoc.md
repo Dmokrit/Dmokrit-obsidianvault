@@ -1,5 +1,7 @@
 ---
-tags: contact
+tags: 
+- contact
+- SCITC
 role: General Secretary
 role.abbr: Gen Sec
 org: College of Information Technology and Computing (SCITC)

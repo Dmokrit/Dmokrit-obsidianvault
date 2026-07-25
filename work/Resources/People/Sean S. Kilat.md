@@ -1,5 +1,7 @@
 ---
-tags: contact
+tags: 
+- contact
+- IT
 role: Representative
 role.abbr: Rep
 org: Information Technology (IT)

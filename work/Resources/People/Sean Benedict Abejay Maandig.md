@@ -1,5 +1,7 @@
 ---
-tags: contact
+tags: 
+- contact
+- SCITC
 role:
 role.abbr: 
 org: College of Information Technology and Computing (SCITC)
