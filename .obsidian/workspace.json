@@ -35,13 +35,24 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/Legislative/2026 - 2027/CS3/CS3.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Jade Natasha S. Ragot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "CS3"
+              "icon": "lucide-file",
+              "title": "Jade Natasha S. Ragot"
             }
           }
         ],
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Legislative/2026 - 2027/CS3/CS3.base",
+                "file": "work/Resources/People/Jade Natasha S. Ragot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS3"
+              "title": "Backlinks for Jade Natasha S. Ragot"
             }
           },
           {
@@ -221,46 +232,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4b164a1ebc4b242",
+  "active": "27a167cebf5bd943",
   "lastOpenFiles": [
+    "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+    "work/Resources/People/Jade Natasha S. Ragot.md",
+    "work/Resources/People/Gabriel Mihally E. Casiño.md",
+    "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
+    "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/People.base",
-    "work/Resources/People/Aryesha S. Macasero.md",
-    "work/Resources/People/Shekinah S. Cañete.md",
-    "work/Resources/People/Yrika Angelein C. Caalim.md",
-    "work/Resources/People/Untitled.md",
-    "work/Legislative/2026 - 2027/CS3/CS3.base",
-    "work/TO DO.md",
+    "work/Resources/People/Willie Marcel B. Ompoy.md",
+    "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
+    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
+    "work/Resources/People/Giean Franco Flores Cabugsa.md",
+    "work/Legislative/2026 - 2027/CS3/Computer Science Student Society.base",
+    "work/Legislative/2026 - 2027/Untitled",
+    "work/Resources/People/Shekinah S. Cañete.md",
+    "work/Resources/People/Aryesha S. Macasero.md",
+    "work/Resources/People/Yrika Angelein C. Caalim.md",
+    "work/Resources/People/Untitled.md",
+    "work/TO DO.md",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Legislative/2026 - 2027/CS3",
     "work/Legislative/2026 - 2027/Legislative Council",
     "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/John Michael Angelo C. Binonggo.md",
-    "work/Resources/People/Angel Janette D. Taglucop.md",
     "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
-    "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/Resources/People/Videlyn Francine Tee.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "work/Resources/People/Roxanne S. Senoc.md",
     "work/Resources/People/Ronald Salig.md",
     "work/Resources/People/Rhian Flores.md",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Resources/People/Mrs. Crystal Sylvette Lavender P. Raro.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
     "work/Resources/People/Mildred Jade A. Palma.md",
-    "work/Resources/People/Lawrence A. Esclamado.md",
-    "work/Resources/People/Kattrina Grace Naviamos.md",
-    "work/Resources/People/Jynobbele Margareth V. Jacobo.md",
-    "work/Resources/People/Jyllan Z. Excelise.md",
-    "work/_SITE.base",
     "attachments/749584827_1661596475971272_2324412444209087630_n.jpg",
     "attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
     "attachments",
-    "work/Legislative/2025-2026/Moderator and Executives.base",
-    "work/Legislative/2025-2026/Legislative Council.base",
     "work/Resources/Attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
     "work/Resources/Attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
     "work/Resources/Attachments/749316485_1661605185970401_2984646234459800142_n.jpg",

@@ -4,4 +4,7 @@ views:
     filters:
       and:
         - file.tags.contains("CS3")
+    order:
+      - file.name
+      - role.abbr
     image: note.image
