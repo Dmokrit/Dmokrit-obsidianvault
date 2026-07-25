@@ -9,4 +9,5 @@ views:
       - role.abbr
       - A.Y
       - tags
+      - org.abbr
     image: note.image
