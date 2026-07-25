@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("contact")
+        - file.path.contains("Resources/People")
     order:
       - file.name
       - org.abbr
