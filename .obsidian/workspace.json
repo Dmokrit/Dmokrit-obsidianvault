@@ -35,24 +35,13 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Jyllan Z. Excelise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Jyllan Z. Excelise"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ],
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Resources/People/Jyllan Z. Excelise.md",
+                "file": "work/People.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jyllan Z. Excelise"
+              "title": "Backlinks for People"
             }
           },
           {
@@ -234,7 +223,14 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
+    "work/Resources/People/Sean S. Kilat.md",
     "work/People.base",
+    "work/Resources/People/Sean Benedict Abejay Maandig.md",
+    "work/Resources/People/Ronald Salig.md",
+    "work/Resources/People/Rhian Flores.md",
+    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
+    "work/Resources/People/Lawrence A. Esclamado.md",
+    "work/Resources/People/Jyllan Z. Excelise.md",
     "work/Resources/People/Jose Democritus A. Dignos.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Aryesha S. Macasero.md",
@@ -243,24 +239,17 @@
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
-    "work/Resources/People/Sean S. Kilat.md",
-    "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "work/Resources/People/Roxanne S. Senoc.md",
-    "work/Resources/People/Ronald Salig.md",
-    "work/Resources/People/Rhian Flores.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
     "work/Resources/People/Mildred Jade A. Palma.md",
-    "work/Resources/People/Lawrence A. Esclamado.md",
     "work/Resources/People/Kattrina Grace Naviamos.md",
     "work/Resources/People/Jynobbele Margareth V. Jacobo.md",
-    "work/Resources/People/Jyllan Z. Excelise.md",
     "work/Resources/People/John Michael Angelo C. Binonggo.md",
     "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/Resources/People/Jade Natasha S. Ragot.md",
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",

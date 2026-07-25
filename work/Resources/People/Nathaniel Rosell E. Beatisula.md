@@ -2,6 +2,7 @@
 tags:
   - contact
   - SCITC
+  - Legislative
 role: Vice President for Internal Affairs
 role.abbr: VPI
 org: College of Information Technology and Computing (SCITC)

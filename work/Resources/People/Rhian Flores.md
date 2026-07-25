@@ -2,6 +2,7 @@
 tags: 
 - contact
 - SCITC
+- Legislative
 role: Media Manager
 role.abbr: MM
 org: College of Information Technology and Computing (SCITC)
