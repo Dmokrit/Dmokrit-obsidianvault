@@ -1,5 +1,6 @@
 ---
 tags: contact
 role: Staff
-org: Computer Science Student Society (CS3)
+org: College of Information Technology and Computing (SCITC)
+A.Y: 2026 - 2027
 ---

@@ -11,13 +11,12 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
             }
           }
         ]
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/People.base",
+                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for People"
+              "title": "Backlinks for Drawing 2026-07-12 17.54.34.excalidraw"
             }
           },
           {
@@ -198,25 +197,30 @@
   },
   "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
+    "07.23.26.md",
+    "Life Dashboard.md",
+    "work/People/Videlyn Francine Tee.md",
+    "work/People/Willie Marcel B. Ompoy.md",
+    "work/People/Jose Democritus Dignos.md",
+    "work/People/Seth Xaviery L. Lofranco.md",
+    "work/People/Shekinah S. Cañete.md",
+    "work/People/Allan Jay G. Pajo.md",
+    "work/People/Yrika Angelein C. Caalim.md",
+    "work/People.base",
+    "work/TO DO.md",
     "work/Legislative/2025-2026/Legislative Council.base",
     "work/Legislative/2025-2026/Legislative Council.md",
     "work/Legislative/2025-2026/Moderator and Executives.base",
-    "work/People/Allan Jay G. Pajo.md",
-    "work/People.base",
     "work/Legislative/2026 - 2027",
     "work/People/Mrs. Crystal Sylvette Lavender P. Raro.md",
     "work/Legislative/2025-2026",
-    "work/People/Willie Marcel B. Ompoy.md",
     "work/People/James David A. Casocot.md",
     "work/People/Gwyneth Dawn S. Rodriguez.md",
     "work/People/Gabriel Mihally E. Casiño.md",
     "work/People/Eleijahmar Fifth C. Sevare.md",
     "work/People/Aryesha Macasero.md",
     "work/People/Jade Natasha S. Ragot.md",
-    "work/People/Videlyn Francine Tee.md",
     "work/People/Angel Janette D. Taglucop.md",
-    "work/People/Yrika Angelein C. Caalim.md",
-    "work/People/Seth Xaviery L. Lofranco.md",
     "work/People/Mims Kiaya V. Abarido.md",
     "work/People/Amielle James A. Nicolas.md",
     "work/People/Nathaniel Rosell E. Beatisula.md",
@@ -224,10 +228,6 @@
     "work/People/Lawrence A. Esclamado.md",
     "work/People/Kattrina Grace Naviamos.md",
     "work/People/John Michael Angelo C. Binonggo.md",
-    "work/People/Jose Democritus Dignos.md",
-    "work/People/Rhian Flores.md",
-    "work/People/Roxanne S. Senoc.md",
-    "work/People/Sean Benedict Abejay Maandig.md",
     "work/People/_01People.base",
     "Untitled.base",
     "work/People",
