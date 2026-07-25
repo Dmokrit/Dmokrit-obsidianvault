@@ -827,7 +827,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/People.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -837,7 +836,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for People"
+              "title": "Backlinks"
             }
           },
           {
@@ -930,10 +929,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c863883b7750ff8b",
+  "active": "b4b164a1ebc4b242",
   "lastOpenFiles": [
-    "work/Resources/People/Gabriel S. Daguisonan.md",
+    "website",
     "work/People.base",
+    "we.md",
+    "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "work/Resources/People/Rhian Flores.md",
     "work/Resources/People/VP Fiel.md",
@@ -958,8 +959,6 @@
     "work/Resources/People/John Lloyd Estoque.md",
     "work/Resources/People/Humpee Pabilona.md",
     "work/Resources/People/Gerlie Campion.md",
-    "work/Resources/People/Evho Bagares.md",
-    "work/Resources/People/Emma Aminao.md",
     "work/Legislative/2026 - 2027/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Legislative Council.base",
     "work/_SITE.base",
