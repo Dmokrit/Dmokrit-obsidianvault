@@ -35,24 +35,13 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Aryesha S. Macasero.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Aryesha S. Macasero"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ],
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Resources/People/Aryesha S. Macasero.md",
+                "file": "work/People.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aryesha S. Macasero"
+              "title": "Backlinks for People"
             }
           },
           {
@@ -234,22 +223,24 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
-    "work/People.base",
-    "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
-    "work/Resources/People/Jose Democritus A. Dignos.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/Resources/People/Yrika Angelein C. Caalim.md",
+    "work/Legislative/2026 - 2027/Computer Science Student Society.base",
+    "work/Legislative/2026 - 2027/Legislative Council.base",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "work/Resources/People/Ronald Salig.md",
     "work/Resources/People/Rhian Flores.md",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Resources/People/Lawrence A. Esclamado.md",
     "work/Resources/People/Jyllan Z. Excelise.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
+    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/People.base",
+    "work/Resources/People/Angel Janette D. Taglucop.md",
+    "work/Resources/People/Jose Democritus A. Dignos.md",
+    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Roxanne S. Senoc.md",
     "work/Resources/People/Mims Kiaya V. Abarido.md",
@@ -264,7 +255,6 @@
     "work/_SITE.base",
     "work/_CS3.base",
     "work/_SCITC 2025 - 2026.base",
-    "work/Legislative/2026 - 2027/CS3/Computer Science Student Society.base",
     "work/Legislative/2026 - 2027/Untitled",
     "work/Legislative/2026 - 2027/CS3",
     "work/Legislative/2026 - 2027/Legislative Council",

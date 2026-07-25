@@ -8,6 +8,7 @@ views:
       - file.name
       - org.abbr
       - role.abbr
+      - file.tags
     image: note.image
     cardSize: 150
     imageAspectRatio: 1

@@ -4,8 +4,8 @@ views:
     filters:
       and:
         - file.tags.contains("contact")
-        - note["A.Y"].contains("2026 - 2027")
         - file.tags.contains("Legislative")
+        - note["A.Y"].contains("2026 - 2027")
     order:
       - file.name
       - role.abbr
