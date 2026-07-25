@@ -1,6 +1,7 @@
 ---
 tags: contact
 role: Vice President for External
+role.abbr: VPE
 org: College of Information Technology and Computing (SCITC)
 org.abbr: SCITC
 ---

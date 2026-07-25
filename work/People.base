@@ -6,8 +6,8 @@ views:
         - file.tags.contains("contact")
     order:
       - file.name
-      - role
       - org.abbr
+      - role.abbr
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
