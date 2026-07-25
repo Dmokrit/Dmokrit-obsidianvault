@@ -35,13 +35,24 @@
             "id": "27a167cebf5bd943",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Allan Jay G. Pajo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Legislative Council"
+              "icon": "lucide-file",
+              "title": "Allan Jay G. Pajo"
             }
           }
         ],
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+                "file": "work/Resources/People/Allan Jay G. Pajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Legislative Council"
+              "title": "Backlinks for Allan Jay G. Pajo"
             }
           },
           {
@@ -223,8 +234,9 @@
   },
   "active": "27a167cebf5bd943",
   "lastOpenFiles": [
-    "work/Resources/People/Shekinah S. Cañete.md",
+    "work/People.base",
     "work/Legislative/2026 - 2027/Legislative Council/Legislative Council.base",
+    "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
@@ -247,7 +259,6 @@
     "work/Resources/People/Gabriel Mihally E. Casiño.md",
     "work/Resources/People/Eleijahmar Fifth C. Sevare.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/People.base",
     "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/_SITE.base",
     "work/_CS3.base",
