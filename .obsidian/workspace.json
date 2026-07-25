@@ -11,12 +11,24 @@
             "id": "66be41d86256ee8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-12 17.54.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -197,11 +209,11 @@
   },
   "active": "66be41d86256ee8c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+    "Life Dashboard.md",
     "07.23.26.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "README.md",
-    "Life Dashboard.md",
     "meursault1/links.md",
     "attachments/Pasted image 20260713143920.png",
     "attachments/Pasted image 20260713143832.png"
