@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "07.23.26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "07.23.26"
             }
           }
         ]
@@ -207,13 +207,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66be41d86256ee8c",
+  "active": "b4b164a1ebc4b242",
   "lastOpenFiles": [
-    "Life Dashboard.md",
+    "work/Legislative/People",
+    "work/Legislative/MOM",
+    "work/Academics",
+    "work/Student Org",
+    "work/Legislative",
+    "work/Untitled.md",
     "07.23.26.md",
+    "work/Linear Algerbra.md",
+    "work/Exercises.md",
+    "work/run notebooks.md",
+    "README.md",
+    "Life Dashboard.md",
     "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
-    "README.md",
     "meursault1/links.md",
     "attachments/Pasted image 20260713143920.png",
     "attachments/Pasted image 20260713143832.png"
