@@ -2,6 +2,7 @@
 tags: 
 - contact
 - GUJDASCI
+- Legislative
 role: President
 role.abbr: Pres
 org: Guild of Junior Data Scientist (GUJDASCI)

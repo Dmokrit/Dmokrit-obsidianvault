@@ -5,6 +5,7 @@ views:
       and:
         - file.tags.contains("contact")
         - note["A.Y"].contains("2026 - 2027")
+        - file.tags.contains("Legislative")
     order:
       - file.name
       - role.abbr
