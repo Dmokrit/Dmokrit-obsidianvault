@@ -11,12 +11,13 @@
             "id": "b86d005ce11a3afe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "bases",
               "state": {
-                "file": "attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg"
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-image",
-              "title": "742800118_1661596515971268_6739059967877798997_n 2"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -195,25 +196,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4b164a1ebc4b242",
+  "active": "b86d005ce11a3afe",
   "lastOpenFiles": [
-    "attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
-    "attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
-    "attachments/742800118_1661596515971268_6739059967877798997_n 1.jpg",
-    "attachments/752189388_1661596539304599_9115381019254885693_n.jpg",
-    "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
-    "attachments/749584827_1661596475971272_2324412444209087630_n.jpg",
-    "attachments/742800118_1661596515971268_6739059967877798997_n.jpg",
     "work/Resources/People/Aryesha S. Macasero.md",
+    "attachments/749132918_1661608082636778_7945980864988473398_n 1.jpg",
     "work/People.base",
+    "work/Resources/People/Sean S. Kilat.md",
+    "attachments/751864970_1661607415970178_15405368762980060_n 1.jpg",
+    "work/Resources/People/Sean Benedict Abejay Maandig.md",
+    "attachments/749316485_1661605185970401_2984646234459800142_n 1.jpg",
+    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/Resources/People/Gabriel S. Daguisonan.md",
+    "attachments/750903899_1661608645970055_5047385195896809424_n 1.jpg",
+    "attachments/749584827_1661596475971272_2324412444209087630_n.jpg",
+    "attachments/752189388_1661596539304599_9115381019254885693_n.jpg",
+    "attachments/751864970_1661607415970178_15405368762980060_n.jpg",
+    "attachments/750903899_1661608645970055_5047385195896809424_n.jpg",
+    "attachments/749316485_1661605185970401_2984646234459800142_n.jpg",
+    "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
     "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Yrika Angelein C. Caalim.md",
     "work/Resources/People/Willie Marcel B. Ompoy.md",
     "work/Resources/People/Videlyn Francine Tee.md",
     "work/Resources/People/Shekinah S. Cañete.md",
     "work/Resources/People/Seth Xaviery L. Lofranco.md",
-    "work/Resources/People/Sean S. Kilat.md",
-    "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "work/Resources/People/Roxanne S. Senoc.md",
     "work/Resources/People/Ronald Salig.md",
     "work/Resources/People/Rhian Flores.md",
@@ -228,12 +234,6 @@
     "work/Resources/People/Jyllan Z. Excelise.md",
     "work/Resources/People/Jose Democritus Dignos.md",
     "work/Resources/People/John Michael Angelo C. Binonggo.md",
-    "work/Resources/People/James David A. Casocot.md",
-    "work/Resources/People/Jade Natasha S. Ragot.md",
-    "attachments/Nathaniel Rosell E. Beatisula.jpg",
-    "attachments/Aryesha S. Macasero.png",
-    "attachments/Nathaniel Rosell E. Beatisula.png",
-    "attachments/Aryesha S. Macasero.jpg",
     "attachments/700762879_122181311846602661_5979075992126614957_n 1.xcf",
     "attachments/700762879_122181311846602661_5979075992126614957_n.xcf",
     "work/Resources",
