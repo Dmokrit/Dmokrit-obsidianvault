@@ -961,8 +961,7 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false,
-      "quartz-syncer:Quartz Syncer publication center": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3019e7164883efd8",
