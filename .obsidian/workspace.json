@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Legislative/MOM/07.26.26.md",
+                "file": "work/Legislative/MOM/07.26.26 MOM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07.26.26"
+              "title": "07.26.26 MOM"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "website/index.md",
+                "file": "work/Legislative/MOM/07.26.26 MOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 07.26.26 MOM"
             }
           },
           {
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +207,8 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/People.base",
+    "work/Legislative/MOM/07.26.26 MOM.md",
     "work/TO DO.md",
     "work/Resources/People/Antonette Hian Serato.md",
     "work/Resources/People/Ariel Del Puerto.md",
@@ -232,9 +233,6 @@
     "work/Resources/People/Tiptip.md",
     "Life Dashboard.md",
     "work/Resources/People/Tudor Dwayne.md",
-    "work/People.base",
-    "work/Legislative/MOM/07.26.26.md",
-    "website/Portfolio.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
