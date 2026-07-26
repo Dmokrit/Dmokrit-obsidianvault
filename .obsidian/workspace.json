@@ -746,7 +746,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/index.md",
+                "file": "website/_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -761,11 +761,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "3019e7164883efd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "website/_index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_index"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -937,11 +961,15 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "c863883b7750ff8b",
+  "active": "3019e7164883efd8",
   "lastOpenFiles": [
+    "website/About.md",
+    "website/Portfolio.md",
+    "website/_index.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
@@ -952,7 +980,6 @@
     "website/quartz/content/quartz/node_modules/yaml/browser/dist/schema/yaml-1.1/schema.js",
     "website/quartz/content/quartz/node_modules/yaml/browser/dist/schema/yaml-1.1/pairs.js",
     "website/quartz/content/quartz/node_modules/yaml/browser/dist/schema/yaml-1.1/omap.js",
-    "website/quartz/content/quartz/node_modules/yaml/browser/dist/schema/yaml-1.1/merge.js",
     "website/quartz/content/quartz/node_modules/tsx/node_modules/@esbuild/linux-x64/README.md",
     "website/quartz/content/quartz/node_modules/parse-entities/node_modules/@types/unist/README.md",
     "website/quartz/content/quartz/node_modules/@parcel/watcher/node_modules/picomatch/README.md",
@@ -976,8 +1003,6 @@
     "website/quartz/content/quartz/node_modules/@types/node/README.md",
     "website/quartz/content/quartz/node_modules/@types/mdast/README.md",
     "website/quartz/content/quartz/node_modules/@types/katex/README.md",
-    "website/quartz/content/quartz/node_modules/@types/hast/README.md",
-    "website/quartz/content/quartz/node_modules/@types/estree-jsx/README.md",
     "website/quartz/content/quartz/public/tags/index-og-image.webp",
     "website/quartz/content/quartz/public/static/og-image.png",
     "website/quartz/content/quartz/public/static/icon.png",
