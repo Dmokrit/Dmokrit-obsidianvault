@@ -746,7 +746,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/_index.md",
+                "file": "work/Legislative/MOM/07.26.26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -761,35 +761,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "3019e7164883efd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "website/_index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_index"
+              "title": "07.26.26"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -964,11 +940,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3019e7164883efd8",
+  "active": "c863883b7750ff8b",
   "lastOpenFiles": [
-    "website/About.md",
     "website/Portfolio.md",
+    "work/Legislative/MOM/07.26.26.md",
     "website/_index.md",
+    "website/About.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
@@ -1001,7 +978,6 @@
     "website/quartz/content/quartz/node_modules/@types/ms/README.md",
     "website/quartz/content/quartz/node_modules/@types/node/README.md",
     "website/quartz/content/quartz/node_modules/@types/mdast/README.md",
-    "website/quartz/content/quartz/node_modules/@types/katex/README.md",
     "website/quartz/content/quartz/public/tags/index-og-image.webp",
     "website/quartz/content/quartz/public/static/og-image.png",
     "website/quartz/content/quartz/public/static/icon.png",
