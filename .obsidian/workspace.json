@@ -11,13 +11,24 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Aryesha S. Macasero.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Aryesha S. Macasero"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/People.base",
+                "file": "work/Resources/People/Aryesha S. Macasero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for People"
+              "title": "Backlinks for Aryesha S. Macasero"
             }
           },
           {
@@ -178,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +208,8 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/People.base",
+    "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/People!noTAGS.base",
     "work/_SCITC 2025 - 2026.base",
