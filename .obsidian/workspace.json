@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "work/People.base",
+                "file": "work/_SCITC 2025 - 2026.base",
                 "viewName": "Table"
               },
               "icon": "lucide-layout-grid",
-              "title": "People"
+              "title": "_SCITC 2025 - 2026"
             }
           }
         ]
@@ -199,11 +199,12 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/_SITE.base",
+    "work/People.base",
+    "work/Resources/People/Leann Ang.md",
     "work/People!noTAGS.base",
     "work/_SCITC 2025 - 2026.base",
-    "work/_SITE.base",
     "work/Legislative/MOM/07.26.26.md",
-    "work/People.base",
     "work/Resources/People/Orson Dave Vincent Daug.md",
     "work/Resources/People/Giean Franco Flores Cabugsa.md",
     "work/_CS3.base",
@@ -233,7 +234,6 @@
     "work/Resources/People/Ariel Del Puerto.md",
     "work/Resources/People/Bryle Y. Binayao.md",
     "work/Resources/People/Cassey Dono-an.md",
-    "work/Resources/People/Dionecey Amplayo.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
