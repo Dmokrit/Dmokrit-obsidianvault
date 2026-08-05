@@ -11,13 +11,24 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/_SCITC 2025 - 2026.base",
-                "viewName": "Table"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "_SCITC 2025 - 2026"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -199,11 +210,12 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/_SCITC 2025 - 2026.base",
+    "Untitled.md",
     "work/_SITE.base",
     "work/People.base",
     "work/Resources/People/Leann Ang.md",
     "work/People!noTAGS.base",
-    "work/_SCITC 2025 - 2026.base",
     "work/Legislative/MOM/07.26.26.md",
     "work/Resources/People/Orson Dave Vincent Daug.md",
     "work/Resources/People/Giean Franco Flores Cabugsa.md",
@@ -233,7 +245,6 @@
     "work/Resources/People/Antonette Hian Serato.md",
     "work/Resources/People/Ariel Del Puerto.md",
     "work/Resources/People/Bryle Y. Binayao.md",
-    "work/Resources/People/Cassey Dono-an.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
