@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Legislative/MOM/05.08.26.md",
+                "file": "work/Legislative/MOM/08.13.26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05.08.26"
+              "title": "08.13.26"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Legislative/MOM/07.26.26.md",
     "work/Legislative/MOM/05.08.26.md",
+    "work/Legislative/MOM/08.13.26.md",
+    "work/Legislative/MOM/07.26.26.md",
     "Untitled.md",
     "work/_SCITC 2025 - 2026.base",
     "work/_SITE.base",
@@ -245,7 +246,6 @@
     "work/TO DO.md",
     "work/Resources/People/Antonette Hian Serato.md",
     "work/Resources/People/Ariel Del Puerto.md",
-    "work/Resources/People/Bryle Y. Binayao.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
