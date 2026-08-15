@@ -6,7 +6,7 @@
   "gitAuthType": "basic",
   "gitAuthUsername": "Dmokrit",
   "gitProviderHint": "github",
-  "vaultPath": "/",
+  "vaultPath": "home/meursault/Documents/Dmokrit-obsidianvault/Web/",
   "contentFolder": "content",
   "publishFrontmatterKey": "publish",
   "allNotesPublishableByDefault": false,
