@@ -1,10 +1,10 @@
 {
   "settingsSchemaVersion": 2,
-  "gitRemoteUrl": "",
-  "gitBranch": "v4",
+  "gitRemoteUrl": "https://github.com/Dmokrit/obsidian-quartz_web.git",
+  "gitBranch": "v5",
   "gitCorsProxyUrl": "",
   "gitAuthType": "basic",
-  "gitAuthUsername": "",
+  "gitAuthUsername": "Dmokrit",
   "gitProviderHint": "github",
   "vaultPath": "/",
   "contentFolder": "content",

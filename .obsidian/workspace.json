@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Legislative/MOM/08.13.26.md",
+                "file": "Web/tsest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08.13.26"
+              "title": "tsest"
             }
           }
         ]
@@ -205,13 +205,16 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Legislative/MOM/05.08.26.md",
     "work/Legislative/MOM/08.13.26.md",
+    "Web/tsest.md",
+    "Web",
+    "work/Legislative/MOM/05.08.26.md",
     "work/Legislative/MOM/07.26.26.md",
     "Untitled.md",
     "work/_SCITC 2025 - 2026.base",
@@ -245,12 +248,10 @@
     "work/Resources/People/Lawrence A. Esclamado.md",
     "work/TO DO.md",
     "work/Resources/People/Antonette Hian Serato.md",
-    "work/Resources/People/Ariel Del Puerto.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
-    "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
     "website/quartz/content/quartz/public/tags/index-og-image.webp",
     "website/quartz/content/quartz/public/static/og-image.png",
     "website/quartz/content/quartz/public/static/icon.png",
