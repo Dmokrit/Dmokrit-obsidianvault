@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/tsest.md",
+                "file": "Life Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tsest"
+              "title": "Life Dashboard"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Legislative/MOM/08.13.26.md",
+    "Life Dashboard.md",
+    "EnviSci.md",
     "Web/tsest.md",
+    "work/Legislative/MOM/08.13.26.md",
     "Web",
     "work/Legislative/MOM/05.08.26.md",
     "work/Legislative/MOM/07.26.26.md",
@@ -230,7 +232,6 @@
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "meursault1/links.md",
     "07.23.26.md",
-    "Life Dashboard.md",
     "README.md",
     "french algeria/2 Areas 𓏟/Untitled.md",
     "french algeria/3 Resources 𓆱/Books/Untitled.md",
@@ -247,7 +248,6 @@
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Lawrence A. Esclamado.md",
     "work/TO DO.md",
-    "work/Resources/People/Antonette Hian Serato.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
