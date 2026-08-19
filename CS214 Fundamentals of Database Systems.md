@@ -19,9 +19,9 @@ Complete the following tasks:
 3. Identify one core entity (e.g., "Customer" or "Inventory Item") and create a **Metadata Table** for it. You must define at least **five attributes** with their Name, Type, Length, and Description (refer to sample in the Lecture Note 01).
 	
 
-|     |     |
-| --- | --- |
-|     |     |
+| Attribute Na |     |     |     |
+| ------------ | --- | --- | --- |
+|              |     |     |     |
 
 
 
