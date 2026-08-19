@@ -21,14 +21,14 @@ Complete the following tasks:
 
 3. Identify one core entity (e.g., "Customer" or "Inventory Item") and create a **Metadata Table** for it. You must define at least **five attributes** with their Name, Type, Length, and Description (refer to sample in the Lecture Note 01).
 
-| Data Item Name | Data Item Type | Data Item Length | Description                                |
-| -------------- | -------------- | ---------------- | ------------------------------------------ |
-| Tenant ID      | Integer        | 5                | Unique identification number of the tenant |
-| Full Name      | Alphanumeric   | 50               | Complete name of the tenant                |
-| Contact Number | Alphanumeric   | 15               | Tenant's mobile phone number               |
-| Room Number    | Alphanumeric   | 10               | Number or identifier of the assigned room  |
-| Monthly Rent   | Decimal        | 8                | Monthly rental amount paid by the tenant   |
-| Move-in Date   | Date           | 10               | Date when the tenant start renting         |
+| Data Item Name | Data Item Type | Data Item Length | Metadata Min. | Metadata Max. | Metadata Description                       | Metadata Source        |
+| -------------- | -------------- | ---------------- | ------------- | ------------- | ------------------------------------------ | ---------------------- |
+| Tenant ID      | Integer        | 5                | 1             | 99999         | Unique identification number of the tenant | Boarding House Records |
+| Full Name      | Alphanumeric   | 50               |               |               | Complete name of the tenant                | Tenants                |
+| Contact Number | Alphanumeric   | 15               |               |               | Tenant's mobile phone number               | Tenants                |
+| Room Number    | Alphanumeric   | 10               |               |               | Number or identifier of the assigned room  | Boarding House Records |
+| Monthly Rent   | Decimal        | 8                | 0.00          | 99999.99      | Monthly rental amount paid by the tenant   | Boarding House Records |
+| Move-in Date   | Date           | 10               |               |               | Date when the tenant start renting         | Tenant                 |
 
 
 
