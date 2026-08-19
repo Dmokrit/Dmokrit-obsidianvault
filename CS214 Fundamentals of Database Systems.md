@@ -9,13 +9,24 @@ Complete the following tasks:
 
 
 2. Identify **three specific disadvantages** of their current "file-based" system (e.g., Data Redundancy, Program-Data Dependence, or Lack of Data Sharing) and explain how each specifically hurts their **business**.
-	
+
+	1. Lack of Transparency
+		asd
+	2. Risk of Data Loss
+	3. 
 
 
 3. Identify one core entity (e.g., "Customer" or "Inventory Item") and create a **Metadata Table** for it. You must define at least **five attributes** with their Name, Type, Length, and Description (refer to sample in the Lecture Note 01).
+	
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 4. List how the **nine components of the database environment** (refer to the Lecture Note 01) would specifically be realized in this business. You must name the actual **End User**s (e.g., "The Shop Manager") and the Application Programs (e.g., "A web-based order form") they would use.
+	
 
 
 5. Describe the **Three-Schema Architecture** for this organization’s new database:
