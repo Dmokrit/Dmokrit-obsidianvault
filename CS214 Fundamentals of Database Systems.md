@@ -5,7 +5,7 @@ Instructions: Select a **unique local organization** that you personally know or
 Complete the following tasks:
 1. Provide the organization's name and a 100-word description of how they currently handly data (e.g., "The local bookstore uses a shared Excel sheet for inventory and paper logs for customer orders").
 	Organization Name: Dignos Boarding House
-		Dignos Boarding House is a small family-run boarding house that accomodates students and workers. Currently, the owner manages information using paper records. Tenant information, room assignments, monthly rental payments, and contact details are written in a notebook. When a tenant pays rent, the owner manually updates the record. Room availability is also checked manually, as well as the water and the electricity bill. Maintainance concerns are usually communicated directly to the owner or via social media apps. Because of this traditional system,
+		Dignos Boarding House is a small family-run boarding house that accomodates students and workers. Currently, the owner manages information using paper records. Tenant information, room assignments, monthly rental payments, and contact details are written in a notebook. When a tenant pays rent, the owner manually updates the record. Room availability is also checked manually, as well as the water and the electricity bill. Maintainance concerns are usually communicated directly to the owner or via social media apps. 
 
 
 2. Identify **three specific disadvantages** of their current "file-based" system (e.g., Data Redundancy, Program-Data Dependence, or Lack of Data Sharing) and explain how each specifically hurts their **business**.
