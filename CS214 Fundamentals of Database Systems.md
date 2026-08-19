@@ -4,10 +4,12 @@ Instructions: Select a **unique local organization** that you personally know or
 
 Complete the following tasks:
 1. Provide the organization's name and a 100-word description of how they currently handly data (e.g., "The local bookstore uses a shared Excel sheet for inventory and paper logs for customer orders").
+	Organization Name: Dignos Boarding House
+		Dignos Boarding House is a small family-run boarding house that accomodates students and workers. Currently, the owner manages information using paper records and 
 
 
 2. Identify **three specific disadvantages** of their current "file-based" system (e.g., Data Redundancy, Program-Data Dependence, or Lack of Data Sharing) and explain how each specifically hurts their **business**.
-
+	
 
 
 3. Identify one core entity (e.g., "Customer" or "Inventory Item") and create a **Metadata Table** for it. You must define at least **five attributes** with their Name, Type, Length, and Description (refer to sample in the Lecture Note 01).
