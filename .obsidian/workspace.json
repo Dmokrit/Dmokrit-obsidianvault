@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EnviSci.md",
+                "file": "CS214 Fundamentals of Database Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EnviSci"
+              "title": "CS214 Fundamentals of Database Systems"
             }
           }
         ]
@@ -212,7 +212,7 @@
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
     "Life Dashboard.md",
-    "EnviSci.md",
+    "CS214 Fundamentals of Database Systems.md",
     "Web/tsest.md",
     "work/Legislative/MOM/08.13.26.md",
     "Web",
