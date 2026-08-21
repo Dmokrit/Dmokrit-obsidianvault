@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS214 Fundamentals of Database Systems.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CS214 Fundamentals of Database Systems"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "Life Dashboard.md",
     "CS214 Fundamentals of Database Systems.md",
+    "Untitled 1.md",
+    "Life Dashboard.md",
     "Web/tsest.md",
     "work/Legislative/MOM/08.13.26.md",
     "Web",
@@ -247,7 +248,6 @@
     "attachments/749239230_1661608612636725_5553192802760036771_n.jpg",
     "work/Resources/People/Sean S. Kilat.md",
     "work/Resources/People/Lawrence A. Esclamado.md",
-    "work/TO DO.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
