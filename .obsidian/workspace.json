@@ -11,13 +11,24 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "TODO list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "TODO list"
             }
           }
         ]
@@ -200,8 +211,10 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
+    "Journal.md",
+    "TODO list.md",
     "work/People.base",
+    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/_SCITC 2025 - 2026.base",
     "work/_CS3.base",
     "work/Legislative/MOM/08.13.26.md",
@@ -230,13 +243,11 @@
     "work/Resources/People/Aryesha S. Macasero.md",
     "work/Resources/People/Gabriel S. Daguisonan.md",
     "work/Resources/People/Sean Benedict Abejay Maandig.md",
-    "work/Resources/People/Seth Xaviery L. Lofranco.md",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
     "attachments/743186200_1661605302637056_3193228149064730281_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n 1.jpg",
     "attachments/749132918_1661608082636778_7945980864988473398_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n.jpg",
-    "work/Resources/People/Sean S. Kilat.md",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
