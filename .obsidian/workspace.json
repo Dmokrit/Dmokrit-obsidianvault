@@ -11,24 +11,13 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Vp Alexander Orejas Fiel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Vp Alexander Orejas Fiel"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -211,7 +200,12 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/Resources/People/Trisha Poligrates.md",
     "work/People.base",
+    "work/Resources/People/Pepito Sia.md",
+    "work/Resources/People/Cassey Candace N. Dono-an.md",
+    "work/Resources/People/Antonette Hian Serato.md",
+    "work/Resources/People/Vp Alexander Orejas Fiel.md",
     "work/Resources/People/Maricel A. Esclamado.md",
     "work/Resources/People/Junar A. Landicho.md",
     "!IMPORTANT",
@@ -238,11 +232,7 @@
     "work/Legislative/MOM/05.08.26.md",
     "Untitled.md",
     "work/_SITE.base",
-    "work/Resources/People/Leann Ang.md",
     "work/People!noTAGS.base",
-    "work/Resources/People/Orson Dave Vincent Daug.md",
-    "work/Resources/People/Giean Franco Flores Cabugsa.md",
-    "french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
     "attachments/743186200_1661605302637056_3193228149064730281_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n 1.jpg",
