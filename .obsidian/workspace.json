@@ -11,13 +11,24 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Junar A. Landicho.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Junar A. Landicho"
             }
           }
         ]
@@ -200,8 +211,12 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/Resources/People/Angel Janette D. Taglucop.md",
+    "work/Resources/People/Junar A. Landicho.md",
+    "work/Resources/People/Amielle James A. Nicolas.md",
+    "work/Resources/People/Maricel A. Esclamado.md",
     "work/People.base",
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Kenneth Ampolitod.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "TODO list.md",
@@ -228,9 +243,6 @@
     "french algeria/1 Project 𓏞/Writing/Fleeting Notes/Minecraft Nitwit Villagers.md",
     "french algeria/1 Project 𓏞/Writing/Reflection/Cannibalism is capitalism.md",
     "07.23.26.md",
-    "README.md",
-    "french algeria/2 Areas 𓏟/Untitled.md",
-    "french algeria/3 Resources 𓆱/Books/Untitled.md",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
     "attachments/743186200_1661605302637056_3193228149064730281_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n 1.jpg",
