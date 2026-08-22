@@ -11,24 +11,13 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "work/Resources/People/Junar A. Landicho.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Junar A. Landicho"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -211,7 +200,13 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/Resources/People/Diane Beatrice C. Al Kasem.md",
     "work/People.base",
+    "work/_CS3.base",
+    "work/Resources/Attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
+    "work/Legislative/MOM/05.08.26.md",
+    "work/Legislative/MOM/07.26.26.md",
+    "work/Resources/People/Junar A. Landicho.md",
     "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Leann Beth Hilda E. Ang.md",
     "work/Resources/People/Trisha Poligrates.md",
@@ -220,7 +215,6 @@
     "work/Resources/People/Antonette Hian Serato.md",
     "work/Resources/People/Vp Alexander Orejas Fiel.md",
     "work/Resources/People/Maricel A. Esclamado.md",
-    "work/Resources/People/Junar A. Landicho.md",
     "!IMPORTANT",
     "Untitled 1.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
@@ -231,15 +225,12 @@
     "Journal.md",
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/_SCITC 2025 - 2026.base",
-    "work/_CS3.base",
     "work/Legislative/MOM/08.13.26.md",
-    "work/Legislative/MOM/07.26.26.md",
     "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
     "meursault1/links.md",
     "Web/tsest.md",
     "08.21.26.md",
     "CS214 Fundamentals of Database Systems.md",
-    "Life Dashboard.md",
     "Web",
     "work/_SITE.base",
     "work/People!noTAGS.base",
@@ -255,7 +246,6 @@
     "website/quartz/content/quartz/public/static/og-image.png",
     "website/quartz/content/quartz/public/static/icon.png",
     "website/quartz/content/quartz/quartz/static/og-image.png",
-    "website/quartz/content/quartz/quartz/static/icon.png",
     "website/quartz/content/quartz/docs/Canvas.canvas",
     "website/quartz/docs/Canvas.canvas"
   ]
