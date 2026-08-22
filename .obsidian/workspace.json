@@ -11,13 +11,24 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "work/People.base",
-                "viewName": "Table"
+                "file": "work/Resources/People/Junar A. Landicho.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Junar A. Landicho"
             }
           }
         ]
@@ -200,8 +211,9 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "work/Resources/People/Leann Beth Hilda E. Ang.md",
     "work/People.base",
+    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/Resources/People/Leann Beth Hilda E. Ang.md",
     "work/Resources/People/Trisha Poligrates.md",
     "work/Resources/People/Pepito Sia.md",
     "work/Resources/People/Cassey Candace N. Dono-an.md",
@@ -213,7 +225,6 @@
     "Untitled 1.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Kenneth Ampolitod.md",
     "work/Resources/People/Aryesha S. Macasero.md",
     "TODO list.md",
@@ -230,7 +241,6 @@
     "CS214 Fundamentals of Database Systems.md",
     "Life Dashboard.md",
     "Web",
-    "work/Legislative/MOM/05.08.26.md",
     "work/_SITE.base",
     "work/People!noTAGS.base",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
