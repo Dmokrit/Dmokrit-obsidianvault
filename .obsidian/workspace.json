@@ -11,24 +11,13 @@
             "id": "fefe6703215c8224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "TODO list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "work/People.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "TODO list"
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -211,9 +200,12 @@
   },
   "active": "fefe6703215c8224",
   "lastOpenFiles": [
-    "Journal.md",
-    "TODO list.md",
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/People.base",
+    "work/Resources/People/Kenneth Ampolitod.md",
+    "work/Resources/People/Aryesha S. Macasero.md",
+    "TODO list.md",
+    "Journal.md",
     "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/_SCITC 2025 - 2026.base",
     "work/_CS3.base",
@@ -239,10 +231,6 @@
     "README.md",
     "french algeria/2 Areas 𓏟/Untitled.md",
     "french algeria/3 Resources 𓆱/Books/Untitled.md",
-    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
-    "work/Resources/People/Aryesha S. Macasero.md",
-    "work/Resources/People/Gabriel S. Daguisonan.md",
-    "work/Resources/People/Sean Benedict Abejay Maandig.md",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
     "attachments/743186200_1661605302637056_3193228149064730281_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n 1.jpg",
