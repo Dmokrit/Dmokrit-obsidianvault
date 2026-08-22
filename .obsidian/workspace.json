@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "297262e5eb205fc5",
+        "id": "a21aa918add318dd",
         "type": "tabs",
         "children": [
           {
-            "id": "fefe6703215c8224",
+            "id": "2bfbe884388100d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Resources/People/Trisha Mae T. Poligrates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Trisha Mae T. Poligrates"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +38,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -209,22 +195,28 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "fefe6703215c8224",
+  "active": "2bfbe884388100d9",
   "lastOpenFiles": [
+    "work/Resources/People/Untitled.md",
     "work/People.base",
+    "work/Resources/People/Jhey Gulde.md",
+    "work/Resources/People/Mark Limpahan.md",
+    "work/_CS3.base",
+    "work/Resources/People/Kathleen Grace Gultiano.md",
+    "work/Resources/People/Pepito A. Sia III.md",
+    "work/Resources/People/Genices Tadeo.md",
+    "work/Resources/People/Alyssa Añabieza.md",
+    "work/Resources/People/Trisha Mae T. Poligrates.md",
     "work/Resources/People/Ariel C. Del Puerto.md",
     "work/Resources/People/David Uriel Lizo Perez.md",
     "work/Resources/People/Antonette Hian Serato.md",
     "work/Resources/People/Diane Beatrice C. Al Kasem.md",
-    "work/_CS3.base",
     "work/Resources/Attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
     "work/Legislative/MOM/05.08.26.md",
     "work/Legislative/MOM/07.26.26.md",
     "work/Resources/People/Junar A. Landicho.md",
     "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Leann Beth Hilda E. Ang.md",
-    "work/Resources/People/Trisha Mae T. Poligrates.md",
-    "work/Resources/People/Pepito Sia.md",
     "work/Resources/People/Cassey Candace N. Dono-an.md",
     "work/Resources/People/Vp Alexander Orejas Fiel.md",
     "work/Resources/People/Maricel A. Esclamado.md",
@@ -234,13 +226,7 @@
     "work/Resources/People/Amielle James A. Nicolas.md",
     "work/Resources/People/Kenneth Ampolitod.md",
     "work/Resources/People/Aryesha S. Macasero.md",
-    "TODO list.md",
-    "Journal.md",
-    "work/Resources/People/Nathaniel Rosell E. Beatisula.md",
     "work/_SCITC 2025 - 2026.base",
-    "work/Legislative/MOM/08.13.26.md",
-    "french algeria/1 Project 𓏞/Writing/Essay/The Obscure Purpose of a Nitwit - Minecraft.md",
-    "meursault1/links.md",
     "Web",
     "work/_SITE.base",
     "work/People!noTAGS.base",
