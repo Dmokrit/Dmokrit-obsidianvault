@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Resources/People/Junar A. Landicho.md",
+                "file": "work/Resources/People/Vp Alexander Orejas Fiel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Junar A. Landicho"
+              "title": "Vp Alexander Orejas Fiel"
             }
           }
         ]
@@ -209,15 +209,15 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "b4b164a1ebc4b242",
+  "active": "fefe6703215c8224",
   "lastOpenFiles": [
+    "work/People.base",
+    "work/Resources/People/Maricel A. Esclamado.md",
+    "work/Resources/People/Junar A. Landicho.md",
     "!IMPORTANT",
     "Untitled 1.md",
-    "work/Resources/People/Junar A. Landicho.md",
     "work/Resources/People/Angel Janette D. Taglucop.md",
     "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Maricel A. Esclamado.md",
-    "work/People.base",
     "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Kenneth Ampolitod.md",
     "work/Resources/People/Aryesha S. Macasero.md",
@@ -251,7 +251,6 @@
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
-    "website/quartz/content/quartz/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
     "website/quartz/content/quartz/public/tags/index-og-image.webp",
     "website/quartz/content/quartz/public/static/og-image.png",
     "website/quartz/content/quartz/public/static/icon.png",
