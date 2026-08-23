@@ -11,10 +11,13 @@
             "id": "2bfbe884388100d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "work/People.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
