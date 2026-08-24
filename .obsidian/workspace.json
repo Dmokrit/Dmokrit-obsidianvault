@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Resources/People/Junar A. Landicho.md",
+                "file": "work/Template/Organization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Junar A. Landicho"
+              "title": "Organization"
             }
           }
         ]
@@ -211,10 +211,17 @@
   },
   "active": "2bfbe884388100d9",
   "lastOpenFiles": [
-    "work/Resources/People/Alyssa Añabieza.md",
-    "work/Resources/People/Allan Jay G. Pajo.md",
-    "work/Resources/People/Junar A. Landicho.md",
+    "work/Template/Common.md",
+    "work/Template/Organization.md",
+    "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
+    "work/Resources/People/Aryesha S. Macasero.md",
     "work/People.base",
+    "work/People!noTAGS.base",
+    "work/Template/Faculty.md",
+    "work/_CS3.base",
+    "work/Resources/People/Allan Jay G. Pajo.md",
+    "work/Resources/People/Alyssa Añabieza.md",
+    "work/Resources/People/Junar A. Landicho.md",
     "work/Resources/People/Leann Beth Hilda E. Ang.md",
     "work/Resources/People/Danielle Erika Perez.md",
     "work/Resources/People/Ariel C. Del Puerto.md",
@@ -223,7 +230,6 @@
     "work/Resources/People/Untitled.md",
     "work/Resources/People/Jhey Gulde.md",
     "work/Resources/People/Mark Limpahan.md",
-    "work/_CS3.base",
     "work/Resources/People/Kathleen Grace Gultiano.md",
     "work/Resources/People/Pepito A. Sia III.md",
     "work/Resources/People/Genices Tadeo.md",
@@ -236,14 +242,9 @@
     "work/Resources/People/Vp Alexander Orejas Fiel.md",
     "work/Resources/People/Maricel A. Esclamado.md",
     "!IMPORTANT",
-    "Untitled 1.md",
-    "work/Resources/People/Angel Janette D. Taglucop.md",
-    "work/Resources/People/Amielle James A. Nicolas.md",
-    "work/Resources/People/Kenneth Ampolitod.md",
     "work/_SCITC 2025 - 2026.base",
     "Web",
     "work/_SITE.base",
-    "work/People!noTAGS.base",
     "attachments/743186200_1661605302637056_3193228149064730281_n 1.jpg",
     "attachments/743186200_1661605302637056_3193228149064730281_n.jpg",
     "attachments/749239230_1661608612636725_5553192802760036771_n 1.jpg",
