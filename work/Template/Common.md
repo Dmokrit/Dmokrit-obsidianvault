@@ -1,4 +1,6 @@
 ---
 tags:
+nickname:
+number:
 
 ---
