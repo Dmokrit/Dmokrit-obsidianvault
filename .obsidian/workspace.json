@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Template/Common.md",
-                "mode": "preview",
+                "file": "work/Resources/People/Ronald Salig.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Common"
+              "title": "Ronald Salig"
             }
           }
         ],
@@ -236,15 +236,15 @@
   },
   "active": "bddf1f3797159f94",
   "lastOpenFiles": [
-    "work/Template/Faculty.md",
+    "work/People.base",
+    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Template/Common.md",
+    "work/Template/Faculty.md",
     "work/Template/Organization.md",
     "Excalidraw/Drawing 2026-07-12 17.54.34.excalidraw.md",
     "work/Resources/People/Aryesha S. Macasero.md",
-    "work/People.base",
     "work/People!noTAGS.base",
     "work/_CS3.base",
-    "work/Resources/People/Allan Jay G. Pajo.md",
     "work/Resources/People/Alyssa Añabieza.md",
     "work/Resources/People/Junar A. Landicho.md",
     "work/Resources/People/Leann Beth Hilda E. Ang.md",
@@ -265,7 +265,6 @@
     "work/Legislative/MOM/07.26.26.md",
     "work/Resources/People/Cassey Candace N. Dono-an.md",
     "work/Resources/People/Vp Alexander Orejas Fiel.md",
-    "work/Resources/People/Maricel A. Esclamado.md",
     "!IMPORTANT",
     "work/_SCITC 2025 - 2026.base",
     "Web",
