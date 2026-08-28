@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS214 Fundamentals of Database Systems.md",
-                "mode": "preview",
+                "file": "note.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CS214 Fundamentals of Database Systems"
+              "title": "note"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "2bfbe884388100d9",
   "lastOpenFiles": [
+    "CS214 Fundamentals of Database Systems.md",
     "Life Dashboard.md",
     "07.23.26.md",
     "08.21.26.md",
@@ -240,7 +241,6 @@
     "work/Resources/People/David Uriel Lizo Perez.md",
     "work/Resources/People/Diane Beatrice C. Al Kasem.md",
     "work/Resources/Attachments/742800118_1661596515971268_6739059967877798997_n 2.jpg",
-    "work/Legislative/MOM/05.08.26.md",
     "!IMPORTANT",
     "work/_SCITC 2025 - 2026.base",
     "Web",
