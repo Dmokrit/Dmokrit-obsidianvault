@@ -1,4 +1,13 @@
 Ozone Layer
 
+Human innovation → unintended environmental damage → environmental crisis → international cooperation → recovery
 
-Largest Antarctic ozone hole recorded
+1. DISCOVERY OF OZONE (1840)
+2. OZONE LAYER IDENTIFIED (1913)
+3. OZONE CYCLE EXPLAINED (1930)
+4. CFCs BECOME WIDESPREAD (1930-70s)
+5. CFCs LINKED TO OZONE DEPLETION (1974)
+6. GLOBAL OZONE DEPLETION (1970s - 1980s)
+7. ANTARTIC OZONE HOLE DISCOVERD (1985)
+8. MONTREAL PROTOCOL (1987)
+9. PROTOCOL ENTERS INTO FORCE (1989)
